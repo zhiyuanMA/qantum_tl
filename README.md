@@ -4,6 +4,14 @@ A take-home exercise. A team leader sees at a glance which upcoming site visits 
 
 **Everything except the solution catalogue is sample data.** No QAntum system, schema or API was used.
 
+## Try it
+
+- **Live site:** https://zhiyuanma.github.io/qantum_tl/
+- **Repository:** https://github.com/zhiyuanMA/qantum_tl
+- **Pipeline and deployments:** [Actions runs](https://github.com/zhiyuanMA/qantum_tl/actions/workflows/ci.yml)
+
+Open the live site and follow the [demonstration](#demonstration) below. No sign-in is needed.
+
 ## Documents
 
 | Document | Purpose |
