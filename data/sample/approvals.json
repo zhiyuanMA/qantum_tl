@@ -1,0 +1,14 @@
+{
+  "_notice": "SAMPLE DATA for the QAntum take-home exercise. Invented for demonstration. Not real plans, stock, usage or approvals.",
+  "approvals": [
+    {
+      "id": "AP-1",
+      "solutionId": "451",
+      "alternativeSolutionId": "464",
+      "siteId": "site-riverside",
+      "approver": "Sample fire engineer",
+      "evidenceRef": "SAMPLE-EVIDENCE-001",
+      "validForDays": 60
+    }
+  ]
+}

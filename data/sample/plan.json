@@ -1,0 +1,303 @@
+{
+  "_notice": "SAMPLE DATA for the QAntum take-home exercise. Invented for demonstration. Not real plans, stock, usage or approvals.",
+  "teams": [
+    {
+      "id": "team-north",
+      "name": "Team North"
+    },
+    {
+      "id": "team-south",
+      "name": "Team South"
+    },
+    {
+      "id": "team-east",
+      "name": "Team East"
+    }
+  ],
+  "leaders": [
+    {
+      "id": "leader-north",
+      "name": "North team leader",
+      "teamIds": [
+        "team-north"
+      ]
+    },
+    {
+      "id": "leader-south",
+      "name": "South team leader",
+      "teamIds": [
+        "team-south"
+      ]
+    },
+    {
+      "id": "leader-east",
+      "name": "East team leader",
+      "teamIds": [
+        "team-east"
+      ]
+    }
+  ],
+  "sites": [
+    {
+      "id": "site-harbour",
+      "name": "Harbour Tower"
+    },
+    {
+      "id": "site-riverside",
+      "name": "Riverside Apartments"
+    },
+    {
+      "id": "site-kauri",
+      "name": "Kauri Medical Centre"
+    },
+    {
+      "id": "site-waterfront",
+      "name": "Waterfront Hotel"
+    }
+  ],
+  "stockPools": [
+    {
+      "id": "pool-central",
+      "name": "Central yard (shared by North and South)"
+    },
+    {
+      "id": "pool-east",
+      "name": "East yard"
+    }
+  ],
+  "visits": [
+    {
+      "id": "V-101",
+      "siteId": "site-harbour",
+      "teamId": "team-north",
+      "stockPoolId": "pool-central",
+      "plannedOffset": 0
+    },
+    {
+      "id": "V-102",
+      "siteId": "site-riverside",
+      "teamId": "team-north",
+      "stockPoolId": "pool-central",
+      "plannedOffset": 2
+    },
+    {
+      "id": "V-103",
+      "siteId": "site-kauri",
+      "teamId": "team-south",
+      "stockPoolId": "pool-central",
+      "plannedOffset": 4
+    },
+    {
+      "id": "V-104",
+      "siteId": "site-harbour",
+      "teamId": "team-north",
+      "stockPoolId": "pool-central",
+      "plannedOffset": 3
+    },
+    {
+      "id": "V-105",
+      "siteId": "site-kauri",
+      "teamId": "team-south",
+      "stockPoolId": "pool-central",
+      "plannedOffset": 3
+    },
+    {
+      "id": "V-106",
+      "siteId": "site-riverside",
+      "teamId": "team-north",
+      "stockPoolId": "pool-central",
+      "plannedOffset": 5
+    },
+    {
+      "id": "V-107",
+      "siteId": "site-kauri",
+      "teamId": "team-south",
+      "stockPoolId": "pool-central",
+      "plannedOffset": 4
+    },
+    {
+      "id": "V-108",
+      "siteId": "site-kauri",
+      "teamId": "team-south",
+      "stockPoolId": "pool-central",
+      "plannedOffset": 5
+    },
+    {
+      "id": "V-109",
+      "siteId": "site-harbour",
+      "teamId": "team-north",
+      "stockPoolId": "pool-central",
+      "plannedOffset": 6
+    },
+    {
+      "id": "V-110",
+      "siteId": "site-riverside",
+      "teamId": "team-north",
+      "stockPoolId": "pool-central",
+      "plannedOffset": 6
+    },
+    {
+      "id": "V-111",
+      "siteId": "site-harbour",
+      "teamId": "team-north",
+      "stockPoolId": "pool-central",
+      "plannedOffset": 7
+    },
+    {
+      "id": "V-112",
+      "siteId": "site-waterfront",
+      "teamId": "team-east",
+      "stockPoolId": "pool-east",
+      "plannedOffset": 0
+    },
+    {
+      "id": "V-113",
+      "siteId": "site-waterfront",
+      "teamId": "team-east",
+      "stockPoolId": "pool-east",
+      "plannedOffset": 3
+    },
+    {
+      "id": "V-114",
+      "siteId": "site-waterfront",
+      "teamId": "team-east",
+      "stockPoolId": "pool-east",
+      "plannedOffset": 4
+    },
+    {
+      "id": "V-115",
+      "siteId": "site-harbour",
+      "teamId": "team-north",
+      "stockPoolId": "pool-central",
+      "plannedOffset": 8
+    },
+    {
+      "id": "V-116",
+      "siteId": "site-kauri",
+      "teamId": "team-south",
+      "stockPoolId": "pool-central",
+      "plannedOffset": 7
+    }
+  ],
+  "scenarios": [
+    {
+      "id": "SC-01",
+      "visitId": "V-101",
+      "solutionId": "440",
+      "penetrations": 12,
+      "location": "Level 2 risers"
+    },
+    {
+      "id": "SC-02",
+      "visitId": "V-101",
+      "solutionId": "521",
+      "penetrations": 1,
+      "location": "Level 2 plant floor"
+    },
+    {
+      "id": "SC-03",
+      "visitId": "V-102",
+      "solutionId": "733",
+      "penetrations": 15,
+      "location": "Block A corridors"
+    },
+    {
+      "id": "SC-04",
+      "visitId": "V-103",
+      "solutionId": "736",
+      "penetrations": 15,
+      "location": "Ward 3 corridor"
+    },
+    {
+      "id": "SC-05",
+      "visitId": "V-104",
+      "solutionId": "478",
+      "penetrations": 15,
+      "location": "Level 4 walls"
+    },
+    {
+      "id": "SC-06",
+      "visitId": "V-105",
+      "solutionId": "542",
+      "penetrations": 15,
+      "location": "Theatre ceiling"
+    },
+    {
+      "id": "SC-07",
+      "visitId": "V-106",
+      "solutionId": "481",
+      "penetrations": 15,
+      "location": "Block B slab"
+    },
+    {
+      "id": "SC-08",
+      "visitId": "V-107",
+      "solutionId": "512",
+      "penetrations": 15,
+      "location": "Atrium floor"
+    },
+    {
+      "id": "SC-09",
+      "visitId": "V-108",
+      "solutionId": "980",
+      "penetrations": 10,
+      "location": "Plant level floor"
+    },
+    {
+      "id": "SC-10",
+      "visitId": "V-109",
+      "solutionId": "726",
+      "penetrations": 6,
+      "location": "Basement slab"
+    },
+    {
+      "id": "SC-11",
+      "visitId": "V-110",
+      "solutionId": "451",
+      "penetrations": 8,
+      "location": "Block C walls"
+    },
+    {
+      "id": "SC-12",
+      "visitId": "V-111",
+      "solutionId": "435",
+      "penetrations": 6,
+      "location": "Level 6 walls"
+    },
+    {
+      "id": "SC-13",
+      "visitId": "V-112",
+      "solutionId": "790",
+      "penetrations": 6,
+      "location": "Ballroom wall joints"
+    },
+    {
+      "id": "SC-14",
+      "visitId": "V-113",
+      "solutionId": "793",
+      "penetrations": 4,
+      "location": "Loading dock wall"
+    },
+    {
+      "id": "SC-15",
+      "visitId": "V-114",
+      "solutionId": "734",
+      "penetrations": 10,
+      "location": "Guest floor walls"
+    },
+    {
+      "id": "SC-16",
+      "visitId": "V-115",
+      "solutionId": "525",
+      "penetrations": 2,
+      "location": "Podium slab"
+    },
+    {
+      "id": "SC-17",
+      "visitId": "V-116",
+      "solutionId": "707",
+      "penetrations": 6,
+      "location": "Mezzanine floor"
+    }
+  ]
+}

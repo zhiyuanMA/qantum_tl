@@ -1,0 +1,2900 @@
+{
+  "solutions": [
+    {
+      "id": "334",
+      "supplierRef": "V1.11-22SFR00038-146-E",
+      "supplier": "FireCo",
+      "orientation": "Wall",
+      "substrate": "FR plasterboard, FR plasterboard wall (1 layer 13mm)",
+      "substrateComplete": true,
+      "serviceClassification": "Non-Combustible Pipe",
+      "serviceType": "Copper Pipe",
+      "serviceSize": "Ø100mm",
+      "integrity": 60,
+      "insulation": null,
+      "productIds": [
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant"
+      ],
+      "rawProducts": "FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant"
+    },
+    {
+      "id": "335",
+      "supplierRef": "V1.12-22SFR00058-165-E",
+      "supplier": "FireCo",
+      "orientation": "Wall",
+      "substrate": "KOROK®, KOROK® wall (51mm)",
+      "substrateComplete": true,
+      "serviceClassification": "Non-Combustible Pipe",
+      "serviceType": "Copper Pipe",
+      "serviceSize": "Ø100mm",
+      "integrity": 60,
+      "insulation": null,
+      "productIds": [
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant"
+      ],
+      "rawProducts": "FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant"
+    },
+    {
+      "id": "344",
+      "supplierRef": "V1.20-23SFR00092-256-G",
+      "supplier": "FireCo",
+      "orientation": "Wall",
+      "substrate": "FR plasterboard, FR plasterboard wall (1 layer 13mm)",
+      "substrateComplete": true,
+      "serviceClassification": "Non-Combustible Pipe",
+      "serviceType": "Steel Pipe",
+      "serviceSize": "Ø28mm",
+      "integrity": 60,
+      "insulation": 60,
+      "productIds": [
+        "fireco-putty-cord-200mm-length"
+      ],
+      "rawProducts": "FIRECO PUTTY CORD 200mm length"
+    },
+    {
+      "id": "345",
+      "supplierRef": "V1.21-23SFR00083-253-D",
+      "supplier": "FireCo",
+      "orientation": "Wall",
+      "substrate": "FR plasterboard, FR plasterboard wall (2 layers 13mm)",
+      "substrateComplete": true,
+      "serviceClassification": "Non-Combustible Pipe",
+      "serviceType": "Copper Pipe",
+      "serviceSize": "Ø100mm",
+      "integrity": 120,
+      "insulation": 90,
+      "productIds": [
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant",
+        "fireco-firecowrap-1000mm-wide-x-6-5m-long-40mm-thick"
+      ],
+      "rawProducts": "FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant,FIRECO FIRECOWRAP 1000mm wide x 6.5m long (40mm thick)"
+    },
+    {
+      "id": "347",
+      "supplierRef": "V1.23-24SFR00041-300-C",
+      "supplier": "FireCo",
+      "orientation": "Wall",
+      "substrate": "FR plasterboard, FR plasterboard wall (1 layer 13mm)",
+      "substrateComplete": true,
+      "serviceClassification": "Non-Combustible Pipe",
+      "serviceType": "Copper Pipe",
+      "serviceSize": "Ø100mm",
+      "integrity": 60,
+      "insulation": 60,
+      "productIds": [
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant",
+        "fireco-firecowrap-1000mm-wide-x-6-5m-long-40mm-thick",
+        "sabre-reinforced-alum-foil-tape-75mm-50"
+      ],
+      "rawProducts": "FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant,FIRECO FIRECOWRAP 1000mm wide x 6.5m long (40mm thick),Sabre Reinforced Alum Foil Tape 75mm/50"
+    },
+    {
+      "id": "348",
+      "supplierRef": "V1.24-24SFR00046-304-F",
+      "supplier": "FireCo",
+      "orientation": "Wall",
+      "substrate": "FR plasterboard, FR plasterboard wall (1 layer 13mm)",
+      "substrateComplete": true,
+      "serviceClassification": "Non-Combustible Pipe",
+      "serviceType": "Copper Pipe",
+      "serviceSize": "Ø40mm",
+      "integrity": 60,
+      "insulation": 60,
+      "productIds": [
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant",
+        "fireco-servowrap-penetration-wrap-300mm-wide-x-10m-long-15mm-thick",
+        "sabre-reinforced-alum-foil-tape-75mm-50"
+      ],
+      "rawProducts": "FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant,FIRECO SERVOWRAP (Penetration Wrap) 300mm wide x 10m long (15mm thick),Sabre Reinforced Alum Foil Tape 75mm/50"
+    },
+    {
+      "id": "375",
+      "supplierRef": "V15.1-21SFR00018-130-D",
+      "supplier": "FireCo",
+      "orientation": "Wall",
+      "substrate": "FR plasterboard, FR plasterboard wall (2 layers 13mm)",
+      "substrateComplete": true,
+      "serviceClassification": "Insulated Pipe",
+      "serviceType": "Copper Pipe - 50mm Fibreglass",
+      "serviceSize": "Ø32mm",
+      "integrity": 60,
+      "insulation": 60,
+      "productIds": [
+        "fireco-strap-60mm-x-4mm-x-10m-long-graphite-strip",
+        "firecobatt-502-1200mm-x-600mm-x-50mm",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant"
+      ],
+      "rawProducts": "FIRECO STRAP 60mm x 4mm x 10m long graphite strip,FIRECOBATT 502  1200mm x 600mm x 50mm,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant"
+    },
+    {
+      "id": "378",
+      "supplierRef": "V16.4-FRT 200058-80-E",
+      "supplier": "FireCo",
+      "orientation": "Wall",
+      "substrate": "FR plasterboard, FR plasterboard wall (1 layer 13mm)",
+      "substrateComplete": true,
+      "serviceClassification": "Insulated Pipe",
+      "serviceType": "Copper Pipe - 38mm Nitrile Rubber",
+      "serviceSize": "Ø80mm",
+      "integrity": 60,
+      "insulation": 60,
+      "productIds": [
+        "fireco-sl-collar-160mm-retrofit-collar",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant"
+      ],
+      "rawProducts": "FIRECO SL COLLAR  160mm Retrofit Collar ,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant"
+    },
+    {
+      "id": "379",
+      "supplierRef": "V16.5-PF 20095-17-D",
+      "supplier": "FireCo",
+      "orientation": "Wall",
+      "substrate": "FR plasterboard, FR plasterboard wall (2 layers 13mm)",
+      "substrateComplete": true,
+      "serviceClassification": "Insulated Pipe",
+      "serviceType": "Copper Pipe - 20mm Nitrile Rubber",
+      "serviceSize": "Ø32mm",
+      "integrity": 120,
+      "insulation": 90,
+      "productIds": [
+        "fireco-strap-60mm-x-4mm-x-10m-long-graphite-strip",
+        "firecobatt-502-1200mm-x-600mm-x-50mm",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant"
+      ],
+      "rawProducts": "FIRECO STRAP 60mm x 4mm x 10m long graphite strip,FIRECOBATT 502  1200mm x 600mm x 50mm,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant"
+    },
+    {
+      "id": "380",
+      "supplierRef": "V16.6-21SFR00018-130-F",
+      "supplier": "FireCo",
+      "orientation": "Wall",
+      "substrate": "FR plasterboard, FR plasterboard wall (2 layers 13mm)",
+      "substrateComplete": true,
+      "serviceClassification": "Insulated Pipe",
+      "serviceType": "Copper Pipe - 20mm Thermobreak",
+      "serviceSize": "Ø32mm",
+      "integrity": 120,
+      "insulation": 120,
+      "productIds": [
+        "fireco-strap-60mm-x-4mm-x-10m-long-graphite-strip",
+        "firecobatt-502-1200mm-x-600mm-x-50mm",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant"
+      ],
+      "rawProducts": "FIRECO STRAP 60mm x 4mm x 10m long graphite strip,FIRECOBATT 502  1200mm x 600mm x 50mm,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant"
+    },
+    {
+      "id": "383",
+      "supplierRef": "V16.8-23SFR00023-206-D",
+      "supplier": "FireCo",
+      "orientation": "Wall",
+      "substrate": "FR plasterboard, FR plasterboard wall (1 layer 19mm)",
+      "substrateComplete": true,
+      "serviceClassification": "Insulated Pipe",
+      "serviceType": "Copper Pipe - 25mm Thermobreak",
+      "serviceSize": "Ø65mm",
+      "integrity": 120,
+      "insulation": 120,
+      "productIds": [
+        "fireco-strap-60mm-x-4mm-x-10m-long-graphite-strip",
+        "firecobatt-502-1200mm-x-600mm-x-50mm",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant",
+        "fireco-servowrap-penetration-wrap-300mm-wide-x-10m-long-15mm-thick"
+      ],
+      "rawProducts": "FIRECO STRAP 60mm x 4mm x 10m long graphite strip,FIRECOBATT 502  1200mm x 600mm x 50mm,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant,FIRECO SERVOWRAP (Penetration Wrap) 300mm wide x 10m long (15mm thick)"
+    },
+    {
+      "id": "384",
+      "supplierRef": "V16.8-23SFR00030-216-D",
+      "supplier": "FireCo",
+      "orientation": "Wall",
+      "substrate": "FR plasterboard, FR plasterboard wall (1 layer 19mm)",
+      "substrateComplete": true,
+      "serviceClassification": "Insulated Pipe",
+      "serviceType": "Copper Pipe - 65mm Thermobreak",
+      "serviceSize": "Ø50mm",
+      "integrity": 120,
+      "insulation": 90,
+      "productIds": [
+        "fireco-strap-60mm-x-4mm-x-10m-long-graphite-strip",
+        "firecobatt-502-1200mm-x-600mm-x-50mm",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant",
+        "fireco-servowrap-penetration-wrap-300mm-wide-x-10m-long-15mm-thick"
+      ],
+      "rawProducts": "FIRECO STRAP 60mm x 4mm x 10m long graphite strip,FIRECOBATT 502  1200mm x 600mm x 50mm,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant,FIRECO SERVOWRAP (Penetration Wrap) 300mm wide x 10m long (15mm thick)"
+    },
+    {
+      "id": "393",
+      "supplierRef": "V17.16-21SFR00059-104-L",
+      "supplier": "FireCo",
+      "orientation": "Floor",
+      "substrate": "Timber Infill, 119mm plywood timber infill floor",
+      "substrateComplete": true,
+      "serviceClassification": "Insulated Pipe",
+      "serviceType": "HVAC Bundle TPS, Pair coil, PVC",
+      "serviceSize": "60",
+      "integrity": 90,
+      "insulation": 60,
+      "productIds": [],
+      "rawProducts": ""
+    },
+    {
+      "id": "416",
+      "supplierRef": "V20.20-21SFR00017-112-F",
+      "supplier": "FireCo",
+      "orientation": "Wall",
+      "substrate": "FR plasterboard, FR plasterboard wall (2 layers 13mm)",
+      "substrateComplete": true,
+      "serviceClassification": "Combustible Pipe",
+      "serviceType": "POLYBUTE Pipe",
+      "serviceSize": "Ø28mm",
+      "integrity": 120,
+      "insulation": 120,
+      "productIds": [
+        "fireco-strap-60mm-x-4mm-x-10m-long-graphite-strip",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant",
+        "firecobatt-502-1200mm-x-600mm-x-50mm"
+      ],
+      "rawProducts": "FIRECO STRAP 60mm x 4mm x 10m long graphite strip,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant,FIRECOBATT 502  1200mm x 600mm x 50mm"
+    },
+    {
+      "id": "426",
+      "supplierRef": "V20.31-23SFR00053-228-F",
+      "supplier": "FireCo",
+      "orientation": "Wall",
+      "substrate": "unlined Timber, FireCo 90mm Naked Wall System",
+      "substrateComplete": true,
+      "serviceClassification": "Combustible Pipe",
+      "serviceType": "PEX-AL Pipe",
+      "serviceSize": "Ø20mm",
+      "integrity": 60,
+      "insulation": 60,
+      "productIds": [
+        "fireco-service-sleeve-40mm-dia",
+        "firecobatt-802-1000mm-x-600mm-x-80mm",
+        "fireco-servowrap-penetration-wrap-300mm-wide-x-10m-long-15mm-thick",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant"
+      ],
+      "rawProducts": "FIRECO SERVICE SLEEVE  40mm dia ,FIRECOBATT 802  1000mm x 600mm x 80mm,FIRECO SERVOWRAP (Penetration Wrap) 300mm wide x 10m long (15mm thick),FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant"
+    },
+    {
+      "id": "434",
+      "supplierRef": "V21.10-PF 19061-81-C",
+      "supplier": "FireCo",
+      "orientation": "Wall",
+      "substrate": "FR plasterboard, FR plasterboard wall (1 layer 13mm)",
+      "substrateComplete": true,
+      "serviceClassification": "Combustible Pipe",
+      "serviceType": "KELOX Pipe - 13mm PE",
+      "serviceSize": "Ø32mm",
+      "integrity": 60,
+      "insulation": 30,
+      "productIds": [
+        "fireco-sl-collar-65mm-retrofit-collar",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant"
+      ],
+      "rawProducts": "FIRECO SL COLLAR  65mm Retrofit Collar ,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant"
+    },
+    {
+      "id": "435",
+      "supplierRef": "V21.11-PF 19061-81-D",
+      "supplier": "FireCo",
+      "orientation": "Wall",
+      "substrate": "FR plasterboard, FR plasterboard wall (1 layer 13mm)",
+      "substrateComplete": true,
+      "serviceClassification": "Combustible Pipe",
+      "serviceType": "KELOX Pipe - 13mm PE",
+      "serviceSize": "Ø32mm",
+      "integrity": 60,
+      "insulation": 60,
+      "productIds": [
+        "fireco-strap-60mm-x-4mm-x-10m-long-graphite-strip",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant",
+        "fireco-servowrap-penetration-wrap-300mm-wide-x-10m-long-15mm-thick",
+        "firecobatt-502-1200mm-x-600mm-x-50mm"
+      ],
+      "rawProducts": "FIRECO STRAP 60mm x 4mm x 10m long graphite strip,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant,FIRECO SERVOWRAP (Penetration Wrap) 300mm wide x 10m long (15mm thick),FIRECOBATT 502  1200mm x 600mm x 50mm"
+    },
+    {
+      "id": "438",
+      "supplierRef": "V21.16-23SFR00002-185-B",
+      "supplier": "FireCo",
+      "orientation": "Wall",
+      "substrate": "FR plasterboard, FR plasterboard wall (1 layer 13mm)",
+      "substrateComplete": true,
+      "serviceClassification": "Combustible Pipe",
+      "serviceType": "PEX Pipe",
+      "serviceSize": "Ø25mm",
+      "integrity": 60,
+      "insulation": 30,
+      "productIds": [
+        "fireco-sl-collar-25mm-retrofit-collar",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant",
+        "fireco-hpx-310ml-tube-fire-rated-graphite-mastic"
+      ],
+      "rawProducts": "FIRECO SL COLLAR  25mm Retrofit Collar,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant,FIRECO HPX 310ml Tube fire-rated Graphite mastic"
+    },
+    {
+      "id": "440",
+      "supplierRef": "V21.18-23SFR00044-221-F",
+      "supplier": "FireCo",
+      "orientation": "Wall",
+      "substrate": "FR plasterboard, FR plasterboard wall (1 layer 13mm)",
+      "substrateComplete": true,
+      "serviceClassification": "Combustible Pipe",
+      "serviceType": "PP-R Pipe",
+      "serviceSize": "Ø25mm",
+      "integrity": 60,
+      "insulation": 60,
+      "productIds": [
+        "fireco-sl-collar-25mm-retrofit-collar",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant"
+      ],
+      "rawProducts": "FIRECO SL COLLAR  25mm Retrofit Collar,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant"
+    },
+    {
+      "id": "441",
+      "supplierRef": "V21.19-23SFR00002-185-D",
+      "supplier": "FireCo",
+      "orientation": "Wall",
+      "substrate": "FR plasterboard, FR plasterboard wall (1 layer 13mm)",
+      "substrateComplete": true,
+      "serviceClassification": "Combustible Pipe",
+      "serviceType": "POLYBUTE Pipe",
+      "serviceSize": "Ø28mm",
+      "integrity": 60,
+      "insulation": 60,
+      "productIds": [
+        "fireco-sl-collar-30mm-retrofit-collar",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant",
+        "fireco-hpx-310ml-tube-fire-rated-graphite-mastic"
+      ],
+      "rawProducts": "FIRECO SL COLLAR  30mm Retrofit Collar ,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant,FIRECO HPX 310ml Tube fire-rated Graphite mastic"
+    },
+    {
+      "id": "444",
+      "supplierRef": "V21.2-21SFR00051-98-A",
+      "supplier": "FireCo",
+      "orientation": "Wall",
+      "substrate": "FR plasterboard, FR plasterboard wall (1 layer 13mm)",
+      "substrateComplete": true,
+      "serviceClassification": "Combustible Pipe",
+      "serviceType": "PVC Pipe",
+      "serviceSize": "Ø40mm",
+      "integrity": 60,
+      "insulation": 60,
+      "productIds": [
+        "fireco-sl-collar-40mm-retrofit-collar",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant"
+      ],
+      "rawProducts": "FIRECO SL COLLAR  40mm Retrofit Collar,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant"
+    },
+    {
+      "id": "447",
+      "supplierRef": "V21.23-FRT 190080-58-T",
+      "supplier": "FireCo",
+      "orientation": "Wall",
+      "substrate": "FR plasterboard, FR plasterboard wall (2 layers 13mm)",
+      "substrateComplete": true,
+      "serviceClassification": "Combustible Pipe",
+      "serviceType": "PVC Pipe",
+      "serviceSize": "Ø40mm",
+      "integrity": 120,
+      "insulation": 90,
+      "productIds": [
+        "fireco-fs-collars-40mm-retrofit-collar",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant"
+      ],
+      "rawProducts": "FIRECO FS COLLARS 40mm Retrofit Collar,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant"
+    },
+    {
+      "id": "450",
+      "supplierRef": "V21.26-22SFR00057-162-E",
+      "supplier": "FireCo",
+      "orientation": "Wall",
+      "substrate": "KOROK®, KOROK® wall (51mm)",
+      "substrateComplete": true,
+      "serviceClassification": "Combustible Pipe",
+      "serviceType": "PVC Socket",
+      "serviceSize": "Ø100mm",
+      "integrity": 60,
+      "insulation": 60,
+      "productIds": [
+        "fireco-sl-collar-110mm-retrofit-collar",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant",
+        "fireco-hpx-310ml-tube-fire-rated-graphite-mastic"
+      ],
+      "rawProducts": "FIRECO SL COLLAR  110mm Retrofit Collar ,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant,FIRECO HPX 310ml Tube fire-rated Graphite mastic"
+    },
+    {
+      "id": "451",
+      "supplierRef": "V21.27-22SFR00053-158-E",
+      "supplier": "FireCo",
+      "orientation": "Wall",
+      "substrate": "FR plasterboard, FR plasterboard wall (1 layer 13mm)",
+      "substrateComplete": true,
+      "serviceClassification": "Combustible Pipe",
+      "serviceType": "PEX Pipe",
+      "serviceSize": "Ø25mm",
+      "integrity": 60,
+      "insulation": 60,
+      "productIds": [
+        "fireco-sl-collar-25mm-retrofit-collar",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant",
+        "fireco-hpx-310ml-tube-fire-rated-graphite-mastic"
+      ],
+      "rawProducts": "FIRECO SL COLLAR  25mm Retrofit Collar,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant,FIRECO HPX 310ml Tube fire-rated Graphite mastic"
+    },
+    {
+      "id": "452",
+      "supplierRef": "V21.28-22SFR00053-158-F",
+      "supplier": "FireCo",
+      "orientation": "Wall",
+      "substrate": "FR plasterboard, FR plasterboard wall ( 1 layer 13mm)",
+      "substrateComplete": true,
+      "serviceClassification": "Combustible Pipe",
+      "serviceType": "PEX-AL Pipe",
+      "serviceSize": "Ø25mm",
+      "integrity": 60,
+      "insulation": 60,
+      "productIds": [
+        "fireco-sl-collar-25mm-retrofit-collar",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant",
+        "fireco-hpx-310ml-tube-fire-rated-graphite-mastic"
+      ],
+      "rawProducts": "FIRECO SL COLLAR  25mm Retrofit Collar,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant,FIRECO HPX 310ml Tube fire-rated Graphite mastic"
+    },
+    {
+      "id": "454",
+      "supplierRef": "V21.2-FRT 190250-56-H",
+      "supplier": "FireCo",
+      "orientation": "Wall",
+      "substrate": "FR plasterboard, FR plasterboard wall (1 layer 13mm)",
+      "substrateComplete": true,
+      "serviceClassification": "Combustible Pipe",
+      "serviceType": "PVC Pipe",
+      "serviceSize": "Ø65mm",
+      "integrity": 60,
+      "insulation": 45,
+      "productIds": [
+        "fireco-sl-collar-65mm-retrofit-collar",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant"
+      ],
+      "rawProducts": "FIRECO SL COLLAR  65mm Retrofit Collar ,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant"
+    },
+    {
+      "id": "455",
+      "supplierRef": "V21.30-22SFR00073-184-B",
+      "supplier": "FireCo",
+      "orientation": "Wall",
+      "substrate": "KOROK®, KOROK® wall (78mm)",
+      "substrateComplete": true,
+      "serviceClassification": "Combustible Pipe",
+      "serviceType": "PVC Pipe",
+      "serviceSize": "Ø65mm",
+      "integrity": 120,
+      "insulation": 120,
+      "productIds": [
+        "fireco-sl-collar-65mm-retrofit-collar",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant"
+      ],
+      "rawProducts": "FIRECO SL COLLAR  65mm Retrofit Collar ,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant"
+    },
+    {
+      "id": "458",
+      "supplierRef": "V21.32-23SFR00025-204-E",
+      "supplier": "FireCo",
+      "orientation": "Wall",
+      "substrate": "FR plasterboard, FR plasterboard wall (1 layer 13mm)",
+      "substrateComplete": true,
+      "serviceClassification": "Combustible Pipe",
+      "serviceType": "PVC Pipe",
+      "serviceSize": "Ø80mm",
+      "integrity": 60,
+      "insulation": 60,
+      "productIds": [
+        "fireco-sl-collar-80mm-retrofit-collar",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant",
+        "fireco-hpx-310ml-tube-fire-rated-graphite-mastic"
+      ],
+      "rawProducts": "FIRECO SL COLLAR  80mm Retrofit Collar ,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant,FIRECO HPX 310ml Tube fire-rated Graphite mastic"
+    },
+    {
+      "id": "459",
+      "supplierRef": "V21.33-23SFR00025-204-C",
+      "supplier": "FireCo",
+      "orientation": "Wall",
+      "substrate": "FR plasterboard, FR plasterboard wall (1 layer 13mm)",
+      "substrateComplete": true,
+      "serviceClassification": "Combustible Pipe",
+      "serviceType": "KELOX Pipe",
+      "serviceSize": "Ø50mm",
+      "integrity": 60,
+      "insulation": 60,
+      "productIds": [
+        "fireco-sl-collar-55mm-retrofit-collar",
+        "fireco-firecowrap-1000mm-wide-x-6-5m-long-40mm-thick",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant"
+      ],
+      "rawProducts": "FIRECO SL COLLAR  55mm Retrofit Collar ,FIRECO FIRECOWRAP 1000mm wide x 6.5m long (40mm thick),FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant"
+    },
+    {
+      "id": "460",
+      "supplierRef": "V21.34-23SFR00021-199-D",
+      "supplier": "FireCo",
+      "orientation": "Wall",
+      "substrate": "FR plasterboard, FR plasterboard wall (1 layer 13mm)",
+      "substrateComplete": true,
+      "serviceClassification": "Non-Combustible Pipe",
+      "serviceType": "Steelox Pipe",
+      "serviceSize": "Ø20mm",
+      "integrity": 60,
+      "insulation": 60,
+      "productIds": [
+        "fireco-sl-collar-25mm-retrofit-collar",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant",
+        "fireco-hpx-310ml-tube-fire-rated-graphite-mastic"
+      ],
+      "rawProducts": "FIRECO SL COLLAR  25mm Retrofit Collar,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant,FIRECO HPX 310ml Tube fire-rated Graphite mastic"
+    },
+    {
+      "id": "461",
+      "supplierRef": "V21.35-23SFR00009-200-E",
+      "supplier": "FireCo",
+      "orientation": "Wall",
+      "substrate": "Concrete, concrete wall",
+      "substrateComplete": true,
+      "serviceClassification": "Combustible Pipe",
+      "serviceType": "PVC Pipe",
+      "serviceSize": "Ø100mm",
+      "integrity": 180,
+      "insulation": 180,
+      "productIds": [
+        "fireco-sl-collar-110mm-retrofit-collar",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant"
+      ],
+      "rawProducts": "FIRECO SL COLLAR  110mm Retrofit Collar ,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant"
+    },
+    {
+      "id": "462",
+      "supplierRef": "V21.36-23SFR00044-221-C",
+      "supplier": "FireCo",
+      "orientation": "Wall",
+      "substrate": "FR plasterboard, FR plasterboard wall (1 layer 13mm)",
+      "substrateComplete": true,
+      "serviceClassification": "Combustible Pipe",
+      "serviceType": "PP-MD Pipe",
+      "serviceSize": "Ø75mm",
+      "integrity": 60,
+      "insulation": 60,
+      "productIds": [
+        "fireco-sl-collar-80mm-retrofit-collar",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant"
+      ],
+      "rawProducts": "FIRECO SL COLLAR  80mm Retrofit Collar ,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant"
+    },
+    {
+      "id": "463",
+      "supplierRef": "V21.37-23SFR00045-225-A",
+      "supplier": "FireCo",
+      "orientation": "Wall",
+      "substrate": "FR plasterboard, FR plasterboard wall (1 layer 13mm)",
+      "substrateComplete": true,
+      "serviceClassification": "Combustible Pipe",
+      "serviceType": "PP-MD Pipe",
+      "serviceSize": "Ø50mm",
+      "integrity": 60,
+      "insulation": 60,
+      "productIds": [
+        "fireco-sl-collar-55mm-retrofit-collar",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant"
+      ],
+      "rawProducts": "FIRECO SL COLLAR  55mm Retrofit Collar ,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant"
+    },
+    {
+      "id": "464",
+      "supplierRef": "V21.38-23SFR00080-246-B",
+      "supplier": "FireCo",
+      "orientation": "Wall",
+      "substrate": "FR plasterboard, FR plasterboard wall (1 layer 13mm)",
+      "substrateComplete": true,
+      "serviceClassification": "Combustible Pipe",
+      "serviceType": "PEX Pipe",
+      "serviceSize": "Ø25mm",
+      "integrity": 60,
+      "insulation": 60,
+      "productIds": [
+        "fireco-slh-half-collar-100mm-retrofit-collar",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant",
+        "fireco-hpx-310ml-tube-fire-rated-graphite-mastic"
+      ],
+      "rawProducts": "FIRECO SLH HALF COLLAR 100mm Retrofit Collar,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant,FIRECO HPX 310ml Tube fire-rated Graphite mastic"
+    },
+    {
+      "id": "465",
+      "supplierRef": "V21.39-23SFR00084-257-B",
+      "supplier": "FireCo",
+      "orientation": "Wall",
+      "substrate": "FR plasterboard, FR plasterboard wall (1 layer 13mm)",
+      "substrateComplete": true,
+      "serviceClassification": "Combustible Pipe",
+      "serviceType": "PEX-AL Pipe",
+      "serviceSize": "Ø25mm",
+      "integrity": 60,
+      "insulation": 60,
+      "productIds": [
+        "fireco-slh-half-collar-100mm-retrofit-collar",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant",
+        "fireco-hpx-310ml-tube-fire-rated-graphite-mastic"
+      ],
+      "rawProducts": "FIRECO SLH HALF COLLAR 100mm Retrofit Collar,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant,FIRECO HPX 310ml Tube fire-rated Graphite mastic"
+    },
+    {
+      "id": "470",
+      "supplierRef": "V21.42-23SFR00089-280-I",
+      "supplier": "FireCo",
+      "orientation": "Wall",
+      "substrate": "AFS Logicwall®, AFS Logicwall®",
+      "substrateComplete": true,
+      "serviceClassification": "Combustible Pipe",
+      "serviceType": "PVC Pipe",
+      "serviceSize": "Ø65mm",
+      "integrity": 120,
+      "insulation": 120,
+      "productIds": [
+        "fireco-sl-collar-65mm-retrofit-collar",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant"
+      ],
+      "rawProducts": "FIRECO SL COLLAR  65mm Retrofit Collar ,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant"
+    },
+    {
+      "id": "471",
+      "supplierRef": "V21.43-24SFR00007-270-D",
+      "supplier": "FireCo",
+      "orientation": "Wall",
+      "substrate": "CLT, CLT wall",
+      "substrateComplete": true,
+      "serviceClassification": "Combustible Pipe",
+      "serviceType": "PVC Pipe",
+      "serviceSize": "Ø65mm",
+      "integrity": 60,
+      "insulation": 60,
+      "productIds": [
+        "fireco-sl-collar-65mm-retrofit-collar",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant"
+      ],
+      "rawProducts": "FIRECO SL COLLAR  65mm Retrofit Collar ,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant"
+    },
+    {
+      "id": "472",
+      "supplierRef": "V21.44-24SFR00007-270-G",
+      "supplier": "FireCo",
+      "orientation": "Wall",
+      "substrate": "CLT, CLT wall",
+      "substrateComplete": true,
+      "serviceClassification": "Combustible Pipe",
+      "serviceType": "PVC Socket",
+      "serviceSize": "Ø100mm",
+      "integrity": 60,
+      "insulation": 60,
+      "productIds": [
+        "fireco-sl-collar-110mm-retrofit-collar",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant",
+        "fireco-hpx-310ml-tube-fire-rated-graphite-mastic"
+      ],
+      "rawProducts": "FIRECO SL COLLAR  110mm Retrofit Collar ,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant,FIRECO HPX 310ml Tube fire-rated Graphite mastic"
+    },
+    {
+      "id": "473",
+      "supplierRef": "V21.45-24SFR00021-301-B",
+      "supplier": "FireCo",
+      "orientation": "Wall",
+      "substrate": "FR plasterboard, FR plasterboard wall (1 layer 13mm)",
+      "substrateComplete": true,
+      "serviceClassification": "Insulated Pipe",
+      "serviceType": "PEX Pipe - 25mm Thermobreak",
+      "serviceSize": "Ø20mm",
+      "integrity": 60,
+      "insulation": 45,
+      "productIds": [
+        "fireco-sl-collar-80mm-retrofit-collar",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant",
+        "fireco-hpx-310ml-tube-fire-rated-graphite-mastic"
+      ],
+      "rawProducts": "FIRECO SL COLLAR  80mm Retrofit Collar ,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant,FIRECO HPX 310ml Tube fire-rated Graphite mastic"
+    },
+    {
+      "id": "474",
+      "supplierRef": "V21.46-24SFR00021-301-F",
+      "supplier": "FireCo",
+      "orientation": "Wall",
+      "substrate": "FR plasterboard, FR plasterboard wall (1 layer 13mm)",
+      "substrateComplete": true,
+      "serviceClassification": "Insulated Pipe",
+      "serviceType": "PEX Pipe - 13mm Nitrile Rubber",
+      "serviceSize": "Ø20mm",
+      "integrity": 60,
+      "insulation": 60,
+      "productIds": [
+        "fireco-sl-collar-55mm-retrofit-collar",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant",
+        "fireco-hpx-310ml-tube-fire-rated-graphite-mastic"
+      ],
+      "rawProducts": "FIRECO SL COLLAR  55mm Retrofit Collar ,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant,FIRECO HPX 310ml Tube fire-rated Graphite mastic"
+    },
+    {
+      "id": "478",
+      "supplierRef": "V21.7-21SFR00051-98-H",
+      "supplier": "FireCo",
+      "orientation": "Wall",
+      "substrate": "FR plasterboard, FR plasterboard wall (1 layer 13mm)",
+      "substrateComplete": true,
+      "serviceClassification": "Combustible Pipe",
+      "serviceType": "PVC Socket",
+      "serviceSize": "Ø100mm",
+      "integrity": 60,
+      "insulation": 60,
+      "productIds": [
+        "fireco-sl-collar-110mm-retrofit-collar",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant",
+        "fireco-hpx-310ml-tube-fire-rated-graphite-mastic"
+      ],
+      "rawProducts": "FIRECO SL COLLAR  110mm Retrofit Collar ,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant,FIRECO HPX 310ml Tube fire-rated Graphite mastic"
+    },
+    {
+      "id": "479",
+      "supplierRef": "V21.8-FRT 190251-55-B",
+      "supplier": "FireCo",
+      "orientation": "Wall",
+      "substrate": "FR plasterboard, FR plasterboard wall ( 1 layer 13mm)",
+      "substrateComplete": true,
+      "serviceClassification": "Combustible Pipe",
+      "serviceType": "PP-R Pipe",
+      "serviceSize": "Ø160mm",
+      "integrity": 30,
+      "insulation": 30,
+      "productIds": [
+        "fireco-sl-collar-160mm-retrofit-collar",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant"
+      ],
+      "rawProducts": "FIRECO SL COLLAR  160mm Retrofit Collar ,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant"
+    },
+    {
+      "id": "481",
+      "supplierRef": "V22.10-23SFR00005-192-C",
+      "supplier": "FireCo",
+      "orientation": "Floor",
+      "substrate": "Concrete, 150mm concrete floor",
+      "substrateComplete": true,
+      "serviceClassification": "Combustible Pipe",
+      "serviceType": "PVC Pipe",
+      "serviceSize": "Ø80mm",
+      "integrity": 180,
+      "insulation": 180,
+      "productIds": [
+        "fireco-sl-collar-80mm-retrofit-collar",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant"
+      ],
+      "rawProducts": "FIRECO SL COLLAR  80mm Retrofit Collar ,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant"
+    },
+    {
+      "id": "484",
+      "supplierRef": "V22.10-PF 20097-18-I",
+      "supplier": "FireCo",
+      "orientation": "Floor",
+      "substrate": "Concrete, 120mm concrete floor",
+      "substrateComplete": true,
+      "serviceClassification": "Combustible Pipe",
+      "serviceType": "PVC Pipe",
+      "serviceSize": "Ø65mm",
+      "integrity": 120,
+      "insulation": 120,
+      "productIds": [
+        "fireco-sl-collar-65mm-retrofit-collar",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant"
+      ],
+      "rawProducts": "FIRECO SL COLLAR  65mm Retrofit Collar ,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant"
+    },
+    {
+      "id": "485",
+      "supplierRef": "V22.11-PF 19060-74-B",
+      "supplier": "FireCo",
+      "orientation": "Floor",
+      "substrate": "Timber Infill, 100mm timber infill floor",
+      "substrateComplete": true,
+      "serviceClassification": "Combustible Pipe",
+      "serviceType": "PVC Pipe",
+      "serviceSize": "Ø50mm",
+      "integrity": 90,
+      "insulation": 90,
+      "productIds": [
+        "fireco-sl-collar-55mm-retrofit-collar",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant"
+      ],
+      "rawProducts": "FIRECO SL COLLAR  55mm Retrofit Collar ,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant"
+    },
+    {
+      "id": "490",
+      "supplierRef": "V22.16-PF 20061-87-C",
+      "supplier": "FireCo",
+      "orientation": "Floor",
+      "substrate": "PLT, 90mm PLT floor",
+      "substrateComplete": true,
+      "serviceClassification": "Combustible Pipe",
+      "serviceType": "PVC Pipe",
+      "serviceSize": "Ø65mm",
+      "integrity": 60,
+      "insulation": 60,
+      "productIds": [
+        "fireco-sl-collar-65mm-retrofit-collar",
+        "fireco-hpx-310ml-tube-fire-rated-graphite-mastic"
+      ],
+      "rawProducts": "FIRECO SL COLLAR  65mm Retrofit Collar ,FIRECO HPX 310ml Tube fire-rated Graphite mastic"
+    },
+    {
+      "id": "501",
+      "supplierRef": "V22.27-FRT 190285-72-I",
+      "supplier": "FireCo",
+      "orientation": "Floor",
+      "substrate": "Concrete, 100mm concrete floor",
+      "substrateComplete": true,
+      "serviceClassification": "Combustible Pipe",
+      "serviceType": "PVC Socket",
+      "serviceSize": "Ø100mm",
+      "integrity": 120,
+      "insulation": 120,
+      "productIds": [
+        "fireco-sl-collar-110mm-retrofit-collar",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant"
+      ],
+      "rawProducts": "FIRECO SL COLLAR  110mm Retrofit Collar ,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant"
+    },
+    {
+      "id": "503",
+      "supplierRef": "V22.29-21SFR00056-101-J",
+      "supplier": "FireCo",
+      "orientation": "Ceiling",
+      "substrate": "FR plasterboard, FR plasterboard ceiling (1 layer 16mm)",
+      "substrateComplete": true,
+      "serviceClassification": "Combustible Pipe",
+      "serviceType": "PEX-AL Pipe",
+      "serviceSize": "Ø40mm",
+      "integrity": 60,
+      "insulation": 60,
+      "productIds": [
+        "fireco-sl-collar-40mm-retrofit-collar",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant",
+        "fireco-hpx-310ml-tube-fire-rated-graphite-mastic"
+      ],
+      "rawProducts": "FIRECO SL COLLAR  40mm Retrofit Collar,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant,FIRECO HPX 310ml Tube fire-rated Graphite mastic"
+    },
+    {
+      "id": "508",
+      "supplierRef": "V22.33-21SFR00059-104-B",
+      "supplier": "FireCo",
+      "orientation": "Floor",
+      "substrate": "Timber Infill, 119mm plywood timber infill floor",
+      "substrateComplete": true,
+      "serviceClassification": "Combustible Pipe",
+      "serviceType": "PVC Pipe",
+      "serviceSize": "Ø32mm",
+      "integrity": 90,
+      "insulation": 90,
+      "productIds": [
+        "fireco-sl-collar-30mm-retrofit-collar",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant"
+      ],
+      "rawProducts": "FIRECO SL COLLAR  30mm Retrofit Collar ,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant"
+    },
+    {
+      "id": "509",
+      "supplierRef": "V22.34-21SFR00059-104-J",
+      "supplier": "FireCo",
+      "orientation": "Floor",
+      "substrate": "Timber Infill, 119mm plywood timber infill floor",
+      "substrateComplete": true,
+      "serviceClassification": "Combustible Pipe",
+      "serviceType": "PVC Socket",
+      "serviceSize": "Ø100mm",
+      "integrity": 90,
+      "insulation": 90,
+      "productIds": [
+        "fireco-sl-collar-110mm-retrofit-collar",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant",
+        "fireco-hpx-310ml-tube-fire-rated-graphite-mastic"
+      ],
+      "rawProducts": "FIRECO SL COLLAR  110mm Retrofit Collar ,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant,FIRECO HPX 310ml Tube fire-rated Graphite mastic"
+    },
+    {
+      "id": "510",
+      "supplierRef": "V22.35-22SFR00072-181-C",
+      "supplier": "FireCo",
+      "orientation": "Ceiling",
+      "substrate": "FR plasterboard, FR plasterboard ceiling (1 layer 16mm)",
+      "substrateComplete": true,
+      "serviceClassification": "Electrical Penetration",
+      "serviceType": "PVC Conduit",
+      "serviceSize": "Ø25mm",
+      "integrity": 60,
+      "insulation": 60,
+      "productIds": [
+        "fireco-sl-collar-25mm-retrofit-collar",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant"
+      ],
+      "rawProducts": "FIRECO SL COLLAR  25mm Retrofit Collar,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant"
+    },
+    {
+      "id": "512",
+      "supplierRef": "V22.36-23SFR00075-234-G",
+      "supplier": "FireCo",
+      "orientation": "Floor",
+      "substrate": "CLT, 103mm CLT floor",
+      "substrateComplete": true,
+      "serviceClassification": "Combustible Pipe",
+      "serviceType": "PVC Pipe",
+      "serviceSize": "Ø80mm",
+      "integrity": 60,
+      "insulation": 60,
+      "productIds": [
+        "fireco-sl-collar-80mm-retrofit-collar",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant",
+        "fireco-hpx-310ml-tube-fire-rated-graphite-mastic"
+      ],
+      "rawProducts": "FIRECO SL COLLAR  80mm Retrofit Collar ,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant,FIRECO HPX 310ml Tube fire-rated Graphite mastic"
+    },
+    {
+      "id": "519",
+      "supplierRef": "V22.42-24SFR00060-302-D",
+      "supplier": "FireCo",
+      "orientation": "Floor",
+      "substrate": "Concrete, 120mm concrete floor",
+      "substrateComplete": true,
+      "serviceClassification": "Combustible Pipe",
+      "serviceType": "PVC Pipe",
+      "serviceSize": "Ø50mm",
+      "integrity": 120,
+      "insulation": 120,
+      "productIds": [
+        "fireco-sl-collar-55mm-retrofit-collar",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant",
+        "fireco-hpx-310ml-tube-fire-rated-graphite-mastic"
+      ],
+      "rawProducts": "FIRECO SL COLLAR  55mm Retrofit Collar ,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant,FIRECO HPX 310ml Tube fire-rated Graphite mastic"
+    },
+    {
+      "id": "521",
+      "supplierRef": "V22.44-22SFR00074-171-C",
+      "supplier": "FireCo",
+      "orientation": "Floor",
+      "substrate": "Concrete, 125mm concrete floor",
+      "substrateComplete": true,
+      "serviceClassification": "Combustible Pipe",
+      "serviceType": "PVC Pipe",
+      "serviceSize": "Ø100mm",
+      "integrity": 60,
+      "insulation": 60,
+      "productIds": [],
+      "rawProducts": "0"
+    },
+    {
+      "id": "522",
+      "supplierRef": "V22.45-23SFR00003-187-E",
+      "supplier": "FireCo",
+      "orientation": "Floor",
+      "substrate": "Composite, 125mm ComFlor SR floor",
+      "substrateComplete": true,
+      "serviceClassification": "Combustible Pipe",
+      "serviceType": "PVC Pipe",
+      "serviceSize": "Ø50mm",
+      "integrity": 60,
+      "insulation": 60,
+      "productIds": [
+        "fireco-sl-collar-55mm-retrofit-collar",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant"
+      ],
+      "rawProducts": "FIRECO SL COLLAR  55mm Retrofit Collar ,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant"
+    },
+    {
+      "id": "523",
+      "supplierRef": "V22.46-23SFR00005-192-E",
+      "supplier": "FireCo",
+      "orientation": "Floor",
+      "substrate": "Concrete, 150mm concrete floor",
+      "substrateComplete": true,
+      "serviceClassification": "Combustible Pipe",
+      "serviceType": "HDPE Pipe",
+      "serviceSize": "Ø65mm",
+      "integrity": 180,
+      "insulation": 180,
+      "productIds": [
+        "fireco-sl-collar-65mm-retrofit-collar",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant"
+      ],
+      "rawProducts": "FIRECO SL COLLAR  65mm Retrofit Collar ,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant"
+    },
+    {
+      "id": "524",
+      "supplierRef": "V22.46-23SFR00047-226-B",
+      "supplier": "FireCo",
+      "orientation": "Floor",
+      "substrate": "Concrete, 125mm concrete floor",
+      "substrateComplete": true,
+      "serviceClassification": "Combustible Pipe",
+      "serviceType": "HDPE Pipe",
+      "serviceSize": "Ø100mm",
+      "integrity": 120,
+      "insulation": 120,
+      "productIds": [
+        "fireco-sl-collar-110mm-retrofit-collar",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant"
+      ],
+      "rawProducts": "FIRECO SL COLLAR  110mm Retrofit Collar ,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant"
+    },
+    {
+      "id": "525",
+      "supplierRef": "V22.47-23SFR00061-244-A",
+      "supplier": "FireCo",
+      "orientation": "Floor",
+      "substrate": "Concrete, 125mm concrete floor",
+      "substrateComplete": true,
+      "serviceClassification": "Combustible Pipe",
+      "serviceType": "PVC Pipe",
+      "serviceSize": "Ø225mm",
+      "integrity": 120,
+      "insulation": 120,
+      "productIds": [],
+      "rawProducts": "0"
+    },
+    {
+      "id": "526",
+      "supplierRef": "V22.48-23SFR00046-223-B",
+      "supplier": "FireCo",
+      "orientation": "Floor",
+      "substrate": "Concrete, 125mm concrete floor",
+      "substrateComplete": true,
+      "serviceClassification": "Combustible Pipe",
+      "serviceType": "PP-MD Pipe",
+      "serviceSize": "Ø50mm",
+      "integrity": 120,
+      "insulation": 120,
+      "productIds": [
+        "fireco-sl-collar-55mm-retrofit-collar",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant"
+      ],
+      "rawProducts": "FIRECO SL COLLAR  55mm Retrofit Collar ,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant"
+    },
+    {
+      "id": "527",
+      "supplierRef": "V22.49-23SFR00079-252-A",
+      "supplier": "FireCo",
+      "orientation": "Floor",
+      "substrate": "Concrete, 150mm concrete floor",
+      "substrateComplete": true,
+      "serviceClassification": "Combustible Pipe",
+      "serviceType": "PVC Floor waste",
+      "serviceSize": "Ø50mm",
+      "integrity": 120,
+      "insulation": 120,
+      "productIds": [
+        "fireco-sl-collar-55mm-retrofit-collar",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant",
+        "ryanrock-6050l-1200mm-x-600mm-x-50mm-60kg-m3-density",
+        "fireco-collar-backing-plate-for-sl-collar-55mm-310mm-x-310mm-x-1-2mm-thick"
+      ],
+      "rawProducts": "FIRECO SL COLLAR  55mm Retrofit Collar ,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant,RYANROCK 6050L 1200mm x 600mm x 50mm - 60Kg/m3 density,FIRECO COLLAR BACKING PLATE - FOR SL COLLAR 55mm 310mm x 310mm x 1.2mm thick"
+    },
+    {
+      "id": "528",
+      "supplierRef": "V22.50-23SFR00079-252-C",
+      "supplier": "FireCo",
+      "orientation": "Floor",
+      "substrate": "Concrete, 150mm concrete floor",
+      "substrateComplete": true,
+      "serviceClassification": "Combustible Pipe",
+      "serviceType": "HDPE Floor waste",
+      "serviceSize": "Ø100mm",
+      "integrity": 120,
+      "insulation": 120,
+      "productIds": [
+        "fireco-sl-collar-110mm-retrofit-collar",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant",
+        "fireco-hpx-310ml-tube-fire-rated-graphite-mastic"
+      ],
+      "rawProducts": "FIRECO SL COLLAR  110mm Retrofit Collar ,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant,FIRECO HPX 310ml Tube fire-rated Graphite mastic"
+    },
+    {
+      "id": "530",
+      "supplierRef": "V22.52-24SFR00035-297-D",
+      "supplier": "FireCo",
+      "orientation": "Ceiling",
+      "substrate": "FR plasterboard, FR plasterboard ceiling (2 layers 19mm)",
+      "substrateComplete": true,
+      "serviceClassification": "Combustible Pipe",
+      "serviceType": "PVC Pipe",
+      "serviceSize": "Ø50mm",
+      "integrity": 120,
+      "insulation": 120,
+      "productIds": [
+        "fireco-fs-collars-55mm-retrofit-collar",
+        "ryanrock-6050l-1200mm-x-600mm-x-50mm-60kg-m3-density",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant"
+      ],
+      "rawProducts": "FIRECO FS COLLARS 55mm Retrofit Collar,RYANROCK 6050L 1200mm x 600mm x 50mm - 60Kg/m3 density,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant"
+    },
+    {
+      "id": "533",
+      "supplierRef": "V22.55-23SFR00090-255-B",
+      "supplier": "FireCo",
+      "orientation": "Floor",
+      "substrate": "Concrete, FR plasterboard bulkhead in 150mm concrete floor",
+      "substrateComplete": true,
+      "serviceClassification": "Combustible Pipe",
+      "serviceType": "PVC Pipe",
+      "serviceSize": "Ø100mm",
+      "integrity": 60,
+      "insulation": 60,
+      "productIds": [],
+      "rawProducts": "0"
+    },
+    {
+      "id": "534",
+      "supplierRef": "V22.56-24SFR00057-309-E",
+      "supplier": "FireCo",
+      "orientation": "Floor",
+      "substrate": "Hollow Core, 385mm hollow core concrete floor",
+      "substrateComplete": true,
+      "serviceClassification": "Combustible Pipe",
+      "serviceType": "PVC Pipe",
+      "serviceSize": "Ø50mm",
+      "integrity": 120,
+      "insulation": 120,
+      "productIds": [
+        "fireco-sl-collar-55mm-retrofit-collar",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant"
+      ],
+      "rawProducts": "FIRECO SL COLLAR  55mm Retrofit Collar ,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant"
+    },
+    {
+      "id": "535",
+      "supplierRef": "V22.57-24SFR00057-309-I",
+      "supplier": "FireCo",
+      "orientation": "Floor",
+      "substrate": "Hollow Core, 385mm hollow core floor",
+      "substrateComplete": true,
+      "serviceClassification": "Combustible Pipe",
+      "serviceType": "PVC Socket",
+      "serviceSize": "Ø100mm",
+      "integrity": 120,
+      "insulation": 120,
+      "productIds": [
+        "fireco-sl-collar-110mm-retrofit-collar",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant",
+        "fireco-hpx-310ml-tube-fire-rated-graphite-mastic"
+      ],
+      "rawProducts": "FIRECO SL COLLAR  110mm Retrofit Collar ,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant,FIRECO HPX 310ml Tube fire-rated Graphite mastic"
+    },
+    {
+      "id": "536",
+      "supplierRef": "V22.58-25SFR00001-311-C",
+      "supplier": "FireCo",
+      "orientation": "Ceiling",
+      "substrate": "FR plasterboard, FR plasterboard ceiling (1 layer 13mm)",
+      "substrateComplete": true,
+      "serviceClassification": "Combustible Pipe",
+      "serviceType": "PVC Pipe",
+      "serviceSize": "Ø50mm",
+      "integrity": 30,
+      "insulation": 30,
+      "productIds": [
+        "fireco-sl-collar-55mm-retrofit-collar",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant"
+      ],
+      "rawProducts": "FIRECO SL COLLAR  55mm Retrofit Collar ,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant"
+    },
+    {
+      "id": "537",
+      "supplierRef": "V22.59-25SFR00001-311-E",
+      "supplier": "FireCo",
+      "orientation": "Ceiling",
+      "substrate": "FR plasterboard, FR plasterboard ceiling (1 layer 13mm)",
+      "substrateComplete": true,
+      "serviceClassification": "Combustible Pipe",
+      "serviceType": "PEX Pipe",
+      "serviceSize": "Ø20mm",
+      "integrity": 30,
+      "insulation": 30,
+      "productIds": [
+        "fireco-sl-collar-25mm-retrofit-collar",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant"
+      ],
+      "rawProducts": "FIRECO SL COLLAR  25mm Retrofit Collar,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant"
+    },
+    {
+      "id": "538",
+      "supplierRef": "V22.60-25SFR00001-311-G",
+      "supplier": "FireCo",
+      "orientation": "Ceiling",
+      "substrate": "FR plasterboard, FR plasterboard ceiling (1 layer 13mm)",
+      "substrateComplete": true,
+      "serviceClassification": "Combustible Pipe",
+      "serviceType": "PEX-AL Pipe",
+      "serviceSize": "Ø20mm",
+      "integrity": 30,
+      "insulation": 30,
+      "productIds": [
+        "fireco-sl-collar-25mm-retrofit-collar",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant"
+      ],
+      "rawProducts": "FIRECO SL COLLAR  25mm Retrofit Collar,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant"
+    },
+    {
+      "id": "540",
+      "supplierRef": "V22.7-21SFR00057-105-C",
+      "supplier": "FireCo",
+      "orientation": "Ceiling",
+      "substrate": "FR plasterboard, FR plasterboard ceiling (1 layer 16mm)",
+      "substrateComplete": true,
+      "serviceClassification": "Combustible Pipe",
+      "serviceType": "PVC Pipe",
+      "serviceSize": "Ø65mm",
+      "integrity": 60,
+      "insulation": 60,
+      "productIds": [
+        "fireco-sl-collar-65mm-retrofit-collar",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant"
+      ],
+      "rawProducts": "FIRECO SL COLLAR  65mm Retrofit Collar ,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant"
+    },
+    {
+      "id": "541",
+      "supplierRef": "V22.7-FRT 190271-65-A",
+      "supplier": "FireCo",
+      "orientation": "Ceiling",
+      "substrate": "FR plasterboard, FR plasterboard ceiling (1 layer 16mm)",
+      "substrateComplete": true,
+      "serviceClassification": "Combustible Pipe",
+      "serviceType": "PVC Pipe",
+      "serviceSize": "Ø50mm",
+      "integrity": 60,
+      "insulation": 30,
+      "productIds": [
+        "fireco-sl-collar-55mm-retrofit-collar",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant"
+      ],
+      "rawProducts": "FIRECO SL COLLAR  55mm Retrofit Collar ,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant"
+    },
+    {
+      "id": "542",
+      "supplierRef": "V22.8-21SFR00056-101-G",
+      "supplier": "FireCo",
+      "orientation": "Ceiling",
+      "substrate": "FR plasterboard, FR plasterboard ceiling (1 layer 16mm)",
+      "substrateComplete": true,
+      "serviceClassification": "Combustible Pipe",
+      "serviceType": "PVC Socket",
+      "serviceSize": "Ø100mm",
+      "integrity": 60,
+      "insulation": 60,
+      "productIds": [
+        "fireco-sl-collar-110mm-retrofit-collar",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant",
+        "fireco-hpx-310ml-tube-fire-rated-graphite-mastic"
+      ],
+      "rawProducts": "FIRECO SL COLLAR  110mm Retrofit Collar ,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant,FIRECO HPX 310ml Tube fire-rated Graphite mastic"
+    },
+    {
+      "id": "543",
+      "supplierRef": "V22.9-21SFR00056-101-H",
+      "supplier": "FireCo",
+      "orientation": "Ceiling",
+      "substrate": "FR plasterboard, FR plasterboard ceiling (1 layer 16mm)",
+      "substrateComplete": true,
+      "serviceClassification": "Combustible Pipe",
+      "serviceType": "PEX Pipe",
+      "serviceSize": "Ø40mm",
+      "integrity": 60,
+      "insulation": 30,
+      "productIds": [
+        "fireco-sl-collar-40mm-retrofit-collar",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant",
+        "fireco-hpx-310ml-tube-fire-rated-graphite-mastic"
+      ],
+      "rawProducts": "FIRECO SL COLLAR  40mm Retrofit Collar,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant,FIRECO HPX 310ml Tube fire-rated Graphite mastic"
+    },
+    {
+      "id": "548",
+      "supplierRef": "V23.14-22SFR00005-111-B",
+      "supplier": "FireCo",
+      "orientation": "Floor",
+      "substrate": "Concrete, 120mm concrete floor",
+      "substrateComplete": true,
+      "serviceClassification": "Combustible Pipe",
+      "serviceType": "PVC Pipe",
+      "serviceSize": "Ø40mm",
+      "integrity": 60,
+      "insulation": 60,
+      "productIds": [
+        "fireco-strap-60mm-x-4mm-x-10m-long-graphite-strip",
+        "firecobatt-502-1200mm-x-600mm-x-50mm",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant"
+      ],
+      "rawProducts": "FIRECO STRAP 60mm x 4mm x 10m long graphite strip,FIRECOBATT 502  1200mm x 600mm x 50mm,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant"
+    },
+    {
+      "id": "552",
+      "supplierRef": "V23.18-22SFR00027-134-E",
+      "supplier": "FireCo",
+      "orientation": "Floor",
+      "substrate": "Composite, 125mm composite floor",
+      "substrateComplete": true,
+      "serviceClassification": "Combustible Pipe",
+      "serviceType": "PVC Pipe",
+      "serviceSize": "Ø50mm",
+      "integrity": 90,
+      "insulation": 90,
+      "productIds": [
+        "fireco-sl-collar-160mm-retrofit-collar",
+        "firecobatt-502-1200mm-x-600mm-x-50mm",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant"
+      ],
+      "rawProducts": "FIRECO SL COLLAR  160mm Retrofit Collar ,FIRECOBATT 502  1200mm x 600mm x 50mm,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant"
+    },
+    {
+      "id": "553",
+      "supplierRef": "V23.19-22SFR00027-134-G",
+      "supplier": "FireCo",
+      "orientation": "Floor",
+      "substrate": "Composite, 125mm composite floor",
+      "substrateComplete": true,
+      "serviceClassification": "Combustible Pipe",
+      "serviceType": "PVC Socket",
+      "serviceSize": "Ø100mm",
+      "integrity": 90,
+      "insulation": 90,
+      "productIds": [
+        "fireco-sl-collar-110mm-retrofit-collar",
+        "firecobatt-502-1200mm-x-600mm-x-50mm",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant",
+        "fireco-hpx-310ml-tube-fire-rated-graphite-mastic"
+      ],
+      "rawProducts": "FIRECO SL COLLAR  110mm Retrofit Collar ,FIRECOBATT 502  1200mm x 600mm x 50mm,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant,FIRECO HPX 310ml Tube fire-rated Graphite mastic"
+    },
+    {
+      "id": "554",
+      "supplierRef": "V23.20-22SFR00063-167-C",
+      "supplier": "FireCo",
+      "orientation": "Floor",
+      "substrate": "Composite, 120mm composite floor",
+      "substrateComplete": true,
+      "serviceClassification": "Combustible Pipe",
+      "serviceType": "HDPE Pipe",
+      "serviceSize": "Ø50mm",
+      "integrity": 60,
+      "insulation": 60,
+      "productIds": [
+        "fireco-sl-collar-110mm-retrofit-collar",
+        "firecobatt-502-1200mm-x-600mm-x-50mm",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant",
+        "fireco-hpx-310ml-tube-fire-rated-graphite-mastic"
+      ],
+      "rawProducts": "FIRECO SL COLLAR  110mm Retrofit Collar ,FIRECOBATT 502  1200mm x 600mm x 50mm,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant,FIRECO HPX 310ml Tube fire-rated Graphite mastic"
+    },
+    {
+      "id": "563",
+      "supplierRef": "V23.9-PF 20106-91-B",
+      "supplier": "FireCo",
+      "orientation": "Floor",
+      "substrate": "Concrete + Woodtex, 140mm concrete floor & Woodtex soffit",
+      "substrateComplete": true,
+      "serviceClassification": "Combustible Pipe",
+      "serviceType": "PVC Pipe",
+      "serviceSize": "Ø100mm",
+      "integrity": 60,
+      "insulation": 60,
+      "productIds": [
+        "fireco-strap-60mm-x-4mm-x-10m-long-graphite-strip",
+        "firecobatt-502-1200mm-x-600mm-x-50mm",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant",
+        "fireco-mastic-brush-grade-5kg-tub-fr-sealant-for-fireco-502-401-802"
+      ],
+      "rawProducts": "FIRECO STRAP 60mm x 4mm x 10m long graphite strip,FIRECOBATT 502  1200mm x 600mm x 50mm,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant,FIRECO MASTIC (BRUSH GRADE) 5Kg tub FR sealant for FireCo 502, 401 & 802"
+    },
+    {
+      "id": "572",
+      "supplierRef": "V25.15-23SFR00006-190-C",
+      "supplier": "FireCo",
+      "orientation": "Floor",
+      "substrate": "Concrete, 125mm concrete floor",
+      "substrateComplete": true,
+      "serviceClassification": "Combustible Pipe",
+      "serviceType": "POLYBUTE Pipe",
+      "serviceSize": "Ø28mm",
+      "integrity": 120,
+      "insulation": 120,
+      "productIds": [
+        "fireco-sl-collar-30mm-retrofit-collar",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant"
+      ],
+      "rawProducts": "FIRECO SL COLLAR  30mm Retrofit Collar ,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant"
+    },
+    {
+      "id": "581",
+      "supplierRef": "V25.21-22SFR00048-154-C",
+      "supplier": "FireCo",
+      "orientation": "Floor",
+      "substrate": "Composite, 120mm composite floor",
+      "substrateComplete": true,
+      "serviceClassification": "Combustible Pipe",
+      "serviceType": "HDPE Pipe",
+      "serviceSize": "Ø56mm",
+      "integrity": 60,
+      "insulation": 60,
+      "productIds": [
+        "fireco-td-collars-drop-ins-65mm-drop-in-collar",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant"
+      ],
+      "rawProducts": "FIRECO TD COLLARS (Drop-Ins) 65mm Drop in Collar,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant"
+    },
+    {
+      "id": "586",
+      "supplierRef": "V25.24-23SFR00005-192-H",
+      "supplier": "FireCo",
+      "orientation": "Floor",
+      "substrate": "Concrete, 150mm concrete floor",
+      "substrateComplete": true,
+      "serviceClassification": "Combustible Pipe",
+      "serviceType": "PP-R Pipe",
+      "serviceSize": "Ø75mm",
+      "integrity": 180,
+      "insulation": 180,
+      "productIds": [
+        "fireco-sl-collar-80mm-retrofit-collar",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant"
+      ],
+      "rawProducts": "FIRECO SL COLLAR  80mm Retrofit Collar ,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant"
+    },
+    {
+      "id": "587",
+      "supplierRef": "V25.24-24SFR00037-303-B",
+      "supplier": "FireCo",
+      "orientation": "Floor",
+      "substrate": "Concrete, 120mm concrete floor",
+      "substrateComplete": true,
+      "serviceClassification": "Combustible Pipe",
+      "serviceType": "PP-R Pipe",
+      "serviceSize": "Ø90mm",
+      "integrity": 120,
+      "insulation": 120,
+      "productIds": [
+        "fireco-sl-collar-110mm-retrofit-collar",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant"
+      ],
+      "rawProducts": "FIRECO SL COLLAR  110mm Retrofit Collar ,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant"
+    },
+    {
+      "id": "598",
+      "supplierRef": "V25.2-FRT 200018-79-A",
+      "supplier": "FireCo",
+      "orientation": "Floor",
+      "substrate": "Concrete, 150mm concrete floor",
+      "substrateComplete": true,
+      "serviceClassification": "Combustible Pipe",
+      "serviceType": "PVC Pipe",
+      "serviceSize": "Ø100mm",
+      "integrity": 120,
+      "insulation": 120,
+      "productIds": [
+        "fireco-td-collars-drop-ins-110mm-drop-in-collar",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant"
+      ],
+      "rawProducts": "FIRECO TD COLLARS (Drop-Ins) 110mm Drop in Collar,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant"
+    },
+    {
+      "id": "599",
+      "supplierRef": "V25.30-21SFR00061-106-K",
+      "supplier": "FireCo",
+      "orientation": "Floor",
+      "substrate": "Timber Infill, 119mm plywood timber infill floor",
+      "substrateComplete": true,
+      "serviceClassification": "Combustible Pipe",
+      "serviceType": "PVC Pipe",
+      "serviceSize": "Ø65mm",
+      "integrity": 60,
+      "insulation": 60,
+      "productIds": [
+        "fireco-td-collars-drop-ins-65mm-drop-in-collar",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant"
+      ],
+      "rawProducts": "FIRECO TD COLLARS (Drop-Ins) 65mm Drop in Collar,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant"
+    },
+    {
+      "id": "600",
+      "supplierRef": "V25.31-22SFR00076-186-E",
+      "supplier": "FireCo",
+      "orientation": "Floor",
+      "substrate": "Composite, 125mm composite floor",
+      "substrateComplete": true,
+      "serviceClassification": "Combustible Pipe",
+      "serviceType": "PEX Pipe",
+      "serviceSize": "Ø25mm",
+      "integrity": 60,
+      "insulation": 60,
+      "productIds": [
+        "fireco-sl-collar-25mm-retrofit-collar",
+        "firecobatt-502-1200mm-x-600mm-x-50mm",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant",
+        "fireco-hpx-310ml-tube-fire-rated-graphite-mastic"
+      ],
+      "rawProducts": "FIRECO SL COLLAR  25mm Retrofit Collar,FIRECOBATT 502  1200mm x 600mm x 50mm,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant,FIRECO HPX 310ml Tube fire-rated Graphite mastic"
+    },
+    {
+      "id": "601",
+      "supplierRef": "V25.33-23SFR00046-223-F",
+      "supplier": "FireCo",
+      "orientation": "Floor",
+      "substrate": "Concrete, 125mm concrete floor",
+      "substrateComplete": true,
+      "serviceClassification": "Combustible Pipe",
+      "serviceType": "PP-MD Pipe",
+      "serviceSize": "Ø40mm",
+      "integrity": 120,
+      "insulation": 120,
+      "productIds": [
+        "fireco-sl-collar-40mm-retrofit-collar",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant"
+      ],
+      "rawProducts": "FIRECO SL COLLAR  40mm Retrofit Collar,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant"
+    },
+    {
+      "id": "604",
+      "supplierRef": "V25.35-24SFR00037-303-D",
+      "supplier": "FireCo",
+      "orientation": "Floor",
+      "substrate": "Concrete, 120mm concrete floor",
+      "substrateComplete": true,
+      "serviceClassification": "Combustible Pipe",
+      "serviceType": "PP-MD Socket",
+      "serviceSize": "Ø40mm",
+      "integrity": 120,
+      "insulation": 120,
+      "productIds": [
+        "fireco-sl-collar-55mm-retrofit-collar",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant"
+      ],
+      "rawProducts": "FIRECO SL COLLAR  55mm Retrofit Collar ,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant"
+    },
+    {
+      "id": "609",
+      "supplierRef": "V25.3-PF 19071-76-E",
+      "supplier": "FireCo",
+      "orientation": "Floor",
+      "substrate": "Composite, composite floor",
+      "substrateComplete": true,
+      "serviceClassification": "Combustible Pipe",
+      "serviceType": "PP-R Pipe",
+      "serviceSize": "Ø110mm",
+      "integrity": 120,
+      "insulation": 30,
+      "productIds": [
+        "fireco-td-collars-drop-ins-110mm-drop-in-collar",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant"
+      ],
+      "rawProducts": "FIRECO TD COLLARS (Drop-Ins) 110mm Drop in Collar,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant"
+    },
+    {
+      "id": "646",
+      "supplierRef": "V27.13-22SFR00050-160-B",
+      "supplier": "FireCo",
+      "orientation": "Wall",
+      "substrate": "FR plasterboard, FR plasterboard wall (1 layer 19mm)",
+      "substrateComplete": true,
+      "serviceClassification": "Electrical Penetration",
+      "serviceType": "Cable Tray D2",
+      "serviceSize": "900mm x 50mm",
+      "integrity": 60,
+      "insulation": 60,
+      "productIds": [
+        "fireco-servowrap-penetration-wrap-300mm-wide-x-10m-long-15mm-thick",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant",
+        "firecobatt-502-1200mm-x-600mm-x-50mm"
+      ],
+      "rawProducts": "FIRECO SERVOWRAP (Penetration Wrap) 300mm wide x 10m long (15mm thick),FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant,FIRECOBATT 502  1200mm x 600mm x 50mm"
+    },
+    {
+      "id": "651",
+      "supplierRef": "V27.17-23SFR00072-238-B",
+      "supplier": "FireCo",
+      "orientation": "Wall",
+      "substrate": "FR plasterboard, FR plasterboard wall (1 layer 19mm)",
+      "substrateComplete": true,
+      "serviceClassification": "Electrical Penetration",
+      "serviceType": "Cable Tray D2",
+      "serviceSize": "900mm x 50mm",
+      "integrity": 120,
+      "insulation": 90,
+      "productIds": [
+        "fireco-servowrap-penetration-wrap-300mm-wide-x-10m-long-15mm-thick",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant",
+        "firecobatt-502-1200mm-x-600mm-x-50mm",
+        "fireco-hpx-310ml-tube-fire-rated-graphite-mastic"
+      ],
+      "rawProducts": "FIRECO SERVOWRAP (Penetration Wrap) 300mm wide x 10m long (15mm thick),FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant,FIRECOBATT 502  1200mm x 600mm x 50mm,FIRECO HPX 310ml Tube fire-rated Graphite mastic"
+    },
+    {
+      "id": "659",
+      "supplierRef": "V27.8-PF 19010-62-15",
+      "supplier": "FireCo",
+      "orientation": "Wall",
+      "substrate": "FR plasterboard, FR plasterboard wall (1 layer 13mm)",
+      "substrateComplete": true,
+      "serviceClassification": "Electrical Penetration",
+      "serviceType": "Cable Tray D1",
+      "serviceSize": "300mm",
+      "integrity": 60,
+      "insulation": 60,
+      "productIds": [
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant",
+        "firecobatt-502-1200mm-x-600mm-x-50mm",
+        "fireco-mastic-brush-grade-5kg-tub-fr-sealant-for-fireco-502-401-802"
+      ],
+      "rawProducts": "FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant,FIRECOBATT 502  1200mm x 600mm x 50mm,FIRECO MASTIC (BRUSH GRADE) 5Kg tub FR sealant for FireCo 502, 401 & 802"
+    },
+    {
+      "id": "661",
+      "supplierRef": "V28.2-23SFR00010-194-E",
+      "supplier": "FireCo",
+      "orientation": "Wall",
+      "substrate": "Concrete, concrete wall",
+      "substrateComplete": true,
+      "serviceClassification": "Combustible Pipe",
+      "serviceType": "PVC Pipe",
+      "serviceSize": "Ø50mm",
+      "integrity": 240,
+      "insulation": 240,
+      "productIds": [
+        "fireco-fs-collars-55mm-retrofit-collar",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant"
+      ],
+      "rawProducts": "FIRECO FS COLLARS 55mm Retrofit Collar,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant"
+    },
+    {
+      "id": "662",
+      "supplierRef": "V28.3-23SFR00014-193-E",
+      "supplier": "FireCo",
+      "orientation": "Floor",
+      "substrate": "Concrete, 150mm concrete floor",
+      "substrateComplete": true,
+      "serviceClassification": "Combustible Pipe",
+      "serviceType": "PVC Pipe",
+      "serviceSize": "Ø50mm",
+      "integrity": 240,
+      "insulation": 240,
+      "productIds": [
+        "fireco-fs-collars-55mm-retrofit-collar",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant"
+      ],
+      "rawProducts": "FIRECO FS COLLARS 55mm Retrofit Collar,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant"
+    },
+    {
+      "id": "677",
+      "supplierRef": "V29.24-21SFR00057-105-A",
+      "supplier": "FireCo",
+      "orientation": "Ceiling",
+      "substrate": "FR plasterboard, FR plasterboard ceiling (1 layer 16mm)",
+      "substrateComplete": true,
+      "serviceClassification": "Electrical Penetration",
+      "serviceType": "Cable Bundle TPS",
+      "serviceSize": "Ø100mm",
+      "integrity": 60,
+      "insulation": 60,
+      "productIds": [
+        "fireco-sl-collar-110mm-retrofit-collar",
+        "fireco-hpx-310ml-tube-fire-rated-graphite-mastic",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant"
+      ],
+      "rawProducts": "FIRECO SL COLLAR  110mm Retrofit Collar ,FIRECO HPX 310ml Tube fire-rated Graphite mastic,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant"
+    },
+    {
+      "id": "684",
+      "supplierRef": "V29.30-21SFR00061-106-D",
+      "supplier": "FireCo",
+      "orientation": "Floor",
+      "substrate": "Timber Infill, 119mm plywood timber infill floor",
+      "substrateComplete": true,
+      "serviceClassification": "Electrical Penetration",
+      "serviceType": "PVC Conduit",
+      "serviceSize": "Ø50mm",
+      "integrity": 60,
+      "insulation": 60,
+      "productIds": [
+        "fireco-sl-collar-55mm-retrofit-collar",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant"
+      ],
+      "rawProducts": "FIRECO SL COLLAR  55mm Retrofit Collar ,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant"
+    },
+    {
+      "id": "686",
+      "supplierRef": "V29.32-22SFR00004-117-F",
+      "supplier": "FireCo",
+      "orientation": "Floor",
+      "substrate": "Concrete, 120mm concrete floor",
+      "substrateComplete": true,
+      "serviceClassification": "Electrical Penetration",
+      "serviceType": "PVC Conduit TPS",
+      "serviceSize": "Ø50mm",
+      "integrity": 60,
+      "insulation": 60,
+      "productIds": [
+        "fireco-strap-60mm-x-4mm-x-10m-long-graphite-strip",
+        "firecobatt-502-1200mm-x-600mm-x-50mm",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant"
+      ],
+      "rawProducts": "FIRECO STRAP 60mm x 4mm x 10m long graphite strip,FIRECOBATT 502  1200mm x 600mm x 50mm,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant"
+    },
+    {
+      "id": "688",
+      "supplierRef": "V29.34-23SFR00075-234-E",
+      "supplier": "FireCo",
+      "orientation": "Floor",
+      "substrate": "CLT, 103mm CLT floor",
+      "substrateComplete": true,
+      "serviceClassification": "Electrical Penetration",
+      "serviceType": "Cable Bundle Mixed",
+      "serviceSize": "Ø100mm",
+      "integrity": 60,
+      "insulation": 60,
+      "productIds": [
+        "fireco-sl-collar-110mm-retrofit-collar",
+        "fireco-hpx-310ml-tube-fire-rated-graphite-mastic",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant",
+        "foam-backer-rod-25mm-dia-pe-backer-rod"
+      ],
+      "rawProducts": "FIRECO SL COLLAR  110mm Retrofit Collar ,FIRECO HPX 310ml Tube fire-rated Graphite mastic,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant,FOAM BACKER ROD 25mm Dia PE backer rod"
+    },
+    {
+      "id": "689",
+      "supplierRef": "V29.35-22SFR00040-148-E",
+      "supplier": "FireCo",
+      "orientation": "Floor",
+      "substrate": "CLT, 90mm CLT floor",
+      "substrateComplete": true,
+      "serviceClassification": "Electrical Penetration",
+      "serviceType": "PVC Conduit TPS",
+      "serviceSize": "Ø50mm",
+      "integrity": 60,
+      "insulation": 60,
+      "productIds": [
+        "fireco-sl-collar-55mm-retrofit-collar",
+        "fireco-hpx-310ml-tube-fire-rated-graphite-mastic"
+      ],
+      "rawProducts": "FIRECO SL COLLAR  55mm Retrofit Collar ,FIRECO HPX 310ml Tube fire-rated Graphite mastic"
+    },
+    {
+      "id": "707",
+      "supplierRef": "V29.51-24SFR00008-263-B",
+      "supplier": "FireCo",
+      "orientation": "Floor",
+      "substrate": "Composite, 125mm composite floor",
+      "substrateComplete": true,
+      "serviceClassification": "Electrical Penetration",
+      "serviceType": "PVC Conduit",
+      "serviceSize": "Ø50mm",
+      "integrity": 90,
+      "insulation": 90,
+      "productIds": [
+        "fireco-sl-collar-55mm-retrofit-collar",
+        "firecobatt-502-1200mm-x-600mm-x-50mm",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant",
+        "fireco-mastic-brush-grade-5kg-tub-fr-sealant-for-fireco-502-401-802",
+        "foam-backer-rod-25mm-dia-pe-backer-rod"
+      ],
+      "rawProducts": "FIRECO SL COLLAR  55mm Retrofit Collar ,FIRECOBATT 502  1200mm x 600mm x 50mm,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant,FIRECO MASTIC (BRUSH GRADE) 5Kg tub FR sealant for FireCo 502, 401 & 802,FOAM BACKER ROD 25mm Dia PE backer rod"
+    },
+    {
+      "id": "708",
+      "supplierRef": "V29.52-24SFR00008-263-E",
+      "supplier": "FireCo",
+      "orientation": "Floor",
+      "substrate": "Composite, 125mm composite floor",
+      "substrateComplete": true,
+      "serviceClassification": "Electrical Penetration",
+      "serviceType": "PVC Conduit",
+      "serviceSize": "Ø50mm",
+      "integrity": 90,
+      "insulation": 90,
+      "productIds": [
+        "fireco-sl-collar-25mm-retrofit-collar",
+        "firecobatt-502-1200mm-x-600mm-x-50mm",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant",
+        "fireco-mastic-brush-grade-5kg-tub-fr-sealant-for-fireco-502-401-802"
+      ],
+      "rawProducts": "FIRECO SL COLLAR  25mm Retrofit Collar,FIRECOBATT 502  1200mm x 600mm x 50mm,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant,FIRECO MASTIC (BRUSH GRADE) 5Kg tub FR sealant for FireCo 502, 401 & 802"
+    },
+    {
+      "id": "710",
+      "supplierRef": "V29.54-23SFR00058-276-D",
+      "supplier": "FireCo",
+      "orientation": "Ceiling",
+      "substrate": "KOROK®, KOROK® ceiling",
+      "substrateComplete": true,
+      "serviceClassification": "Electrical Penetration",
+      "serviceType": "Cable TPS",
+      "serviceSize": "Ø16mm",
+      "integrity": 120,
+      "insulation": 120,
+      "productIds": [
+        "fireco-sl-collar-25mm-retrofit-collar",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant",
+        "fireco-hpx-310ml-tube-fire-rated-graphite-mastic"
+      ],
+      "rawProducts": "FIRECO SL COLLAR  25mm Retrofit Collar,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant,FIRECO HPX 310ml Tube fire-rated Graphite mastic"
+    },
+    {
+      "id": "722",
+      "supplierRef": "V3.1-PF 19012-63-B",
+      "supplier": "FireCo",
+      "orientation": "Floor",
+      "substrate": "Composite, composite floor",
+      "substrateComplete": true,
+      "serviceClassification": "Non-Combustible Pipe",
+      "serviceType": "Copper Pipe",
+      "serviceSize": "Ø150mm",
+      "integrity": 120,
+      "insulation": null,
+      "productIds": [
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant"
+      ],
+      "rawProducts": "FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant"
+    },
+    {
+      "id": "724",
+      "supplierRef": "V3.2-PF 19012-63-E",
+      "supplier": "FireCo",
+      "orientation": "Floor",
+      "substrate": "Composite, composite floor",
+      "substrateComplete": true,
+      "serviceClassification": "Non-Combustible Pipe",
+      "serviceType": "Copper Pipe",
+      "serviceSize": "Ø150mm",
+      "integrity": 120,
+      "insulation": null,
+      "productIds": [
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant",
+        "foam-backer-rod-25mm-dia-pe-backer-rod"
+      ],
+      "rawProducts": "FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant,FOAM BACKER ROD 25mm Dia PE backer rod"
+    },
+    {
+      "id": "726",
+      "supplierRef": "V3.4-23SFR00017-196-D",
+      "supplier": "FireCo",
+      "orientation": "Floor",
+      "substrate": "Concrete, 125mm concrete floor",
+      "substrateComplete": true,
+      "serviceClassification": "Non-Combustible Pipe",
+      "serviceType": "Copper Pipe",
+      "serviceSize": "Ø50mm",
+      "integrity": 120,
+      "insulation": 120,
+      "productIds": [
+        "fireco-firecowrap-1000mm-wide-x-6-5m-long-40mm-thick",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant"
+      ],
+      "rawProducts": "FIRECO FIRECOWRAP 1000mm wide x 6.5m long (40mm thick),FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant"
+    },
+    {
+      "id": "731",
+      "supplierRef": "V33.13-22SFR00065-175-C",
+      "supplier": "FireCo",
+      "orientation": "Wall",
+      "substrate": "FR plasterboard, FR plasterboard wall (1 layer 19mm)",
+      "substrateComplete": true,
+      "serviceClassification": "Electrical Penetration",
+      "serviceType": "PVC Conduit",
+      "serviceSize": "Ø50mm",
+      "integrity": 120,
+      "insulation": 90,
+      "productIds": [
+        "fireco-sl-collar-55mm-retrofit-collar",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant"
+      ],
+      "rawProducts": "FIRECO SL COLLAR  55mm Retrofit Collar ,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant"
+    },
+    {
+      "id": "733",
+      "supplierRef": "V33.14-23SFR00001-188-F",
+      "supplier": "FireCo",
+      "orientation": "Wall",
+      "substrate": "FR plasterboard, FR plasterboard wall (1 layer 13mm)",
+      "substrateComplete": true,
+      "serviceClassification": "Electrical Penetration",
+      "serviceType": "PVC Conduit",
+      "serviceSize": "Ø50mm",
+      "integrity": 60,
+      "insulation": 60,
+      "productIds": [
+        "fireco-sl-collar-55mm-retrofit-collar",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant"
+      ],
+      "rawProducts": "FIRECO SL COLLAR  55mm Retrofit Collar ,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant"
+    },
+    {
+      "id": "734",
+      "supplierRef": "V33.15-23SFR00034-210-F",
+      "supplier": "FireCo",
+      "orientation": "Wall",
+      "substrate": "KOROK®, KOROK® wall (51 mm)",
+      "substrateComplete": true,
+      "serviceClassification": "Electrical Penetration",
+      "serviceType": "PVC Conduit",
+      "serviceSize": "Ø50mm",
+      "integrity": 60,
+      "insulation": 60,
+      "productIds": [
+        "fireco-sl-collar-55mm-retrofit-collar",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant"
+      ],
+      "rawProducts": "FIRECO SL COLLAR  55mm Retrofit Collar ,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant"
+    },
+    {
+      "id": "735",
+      "supplierRef": "V33.16-23SFR00089-280-F",
+      "supplier": "FireCo",
+      "orientation": "Wall",
+      "substrate": "AFS Logicwall®, AFS Logicwall®",
+      "substrateComplete": true,
+      "serviceClassification": "Electrical Penetration",
+      "serviceType": "PVC Conduit",
+      "serviceSize": "Ø50mm",
+      "integrity": 120,
+      "insulation": 120,
+      "productIds": [
+        "fireco-sl-collar-55mm-retrofit-collar",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant"
+      ],
+      "rawProducts": "FIRECO SL COLLAR  55mm Retrofit Collar ,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant"
+    },
+    {
+      "id": "736",
+      "supplierRef": "V33.4-PF 20067-88-A",
+      "supplier": "FireCo",
+      "orientation": "Wall",
+      "substrate": "FR plasterboard, FR plasterboard wall (1 layer 13mm)",
+      "substrateComplete": true,
+      "serviceClassification": "Electrical Penetration",
+      "serviceType": "PVC Conduit",
+      "serviceSize": "Ø50mm",
+      "integrity": 60,
+      "insulation": 60,
+      "productIds": [
+        "fireco-sl-collar-55mm-retrofit-collar",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant"
+      ],
+      "rawProducts": "FIRECO SL COLLAR  55mm Retrofit Collar ,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant"
+    },
+    {
+      "id": "740",
+      "supplierRef": "V33.6-PF 20094-15-C",
+      "supplier": "FireCo",
+      "orientation": "Wall",
+      "substrate": "FR plasterboard, FR plasterboard wall (2 layers 13mm)",
+      "substrateComplete": true,
+      "serviceClassification": "Electrical Penetration",
+      "serviceType": "PVC Conduit",
+      "serviceSize": "Ø50mm",
+      "integrity": 120,
+      "insulation": 120,
+      "productIds": [
+        "fireco-hpx-310ml-tube-fire-rated-graphite-mastic"
+      ],
+      "rawProducts": "FIRECO HPX 310ml Tube fire-rated Graphite mastic"
+    },
+    {
+      "id": "742",
+      "supplierRef": "V33.8-FRT 190079-11-C",
+      "supplier": "FireCo",
+      "orientation": "Wall",
+      "substrate": "FR plasterboard, FR plasterboard wall (2 layers 13mm)",
+      "substrateComplete": true,
+      "serviceClassification": "Electrical Penetration",
+      "serviceType": "PVC Conduit",
+      "serviceSize": "Ø32mm",
+      "integrity": 120,
+      "insulation": 60,
+      "productIds": [
+        "fireco-strap-60mm-x-4mm-x-10m-long-graphite-strip",
+        "firecobatt-502-1200mm-x-600mm-x-50mm",
+        "fireco-mastic-brush-grade-5kg-tub-fr-sealant-for-fireco-502-401-802",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant"
+      ],
+      "rawProducts": "FIRECO STRAP 60mm x 4mm x 10m long graphite strip,FIRECOBATT 502  1200mm x 600mm x 50mm,FIRECO MASTIC (BRUSH GRADE) 5Kg tub FR sealant for FireCo 502, 401 & 802,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant"
+    },
+    {
+      "id": "743",
+      "supplierRef": "V33.9-FRT 190079-11-M",
+      "supplier": "FireCo",
+      "orientation": "Wall",
+      "substrate": "FR plasterboard, FR plasterboard wall (2 layers 13mm)",
+      "substrateComplete": true,
+      "serviceClassification": "Electrical Penetration",
+      "serviceType": "PVC Conduit",
+      "serviceSize": "Ø50mm",
+      "integrity": 120,
+      "insulation": 60,
+      "productIds": [
+        "fireco-fs-collars-55mm-retrofit-collar",
+        "firecobatt-502-1200mm-x-600mm-x-50mm",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant",
+        "fireco-hpx-310ml-tube-fire-rated-graphite-mastic"
+      ],
+      "rawProducts": "FIRECO FS COLLARS 55mm Retrofit Collar,FIRECOBATT 502  1200mm x 600mm x 50mm,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant,FIRECO HPX 310ml Tube fire-rated Graphite mastic"
+    },
+    {
+      "id": "766",
+      "supplierRef": "V36.7-FRT 190080-58-B",
+      "supplier": "FireCo",
+      "orientation": "Wall",
+      "substrate": "FR plasterboard, FR plasterboard wall (2 layers 13mm)",
+      "substrateComplete": true,
+      "serviceClassification": "Electrical Penetration",
+      "serviceType": "Cable Bundle TPS",
+      "serviceSize": "Ø30mm",
+      "integrity": 120,
+      "insulation": 60,
+      "productIds": [
+        "fireco-hpx-310ml-tube-fire-rated-graphite-mastic"
+      ],
+      "rawProducts": "FIRECO HPX 310ml Tube fire-rated Graphite mastic"
+    },
+    {
+      "id": "787",
+      "supplierRef": "V43.4-23SFR00078-251-B",
+      "supplier": "FireCo",
+      "orientation": "Floor",
+      "substrate": "Concrete, 125mm concrete floor",
+      "substrateComplete": true,
+      "serviceClassification": "Electrical Penetration",
+      "serviceType": "Cable Tray Mains",
+      "serviceSize": "900mm",
+      "integrity": 120,
+      "insulation": 120,
+      "productIds": [
+        "fireco-servowrap-penetration-wrap-300mm-wide-x-10m-long-15mm-thick",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant",
+        "firecobatt-502-1200mm-x-600mm-x-50mm",
+        "fireco-hpx-310ml-tube-fire-rated-graphite-mastic"
+      ],
+      "rawProducts": "FIRECO SERVOWRAP (Penetration Wrap) 300mm wide x 10m long (15mm thick),FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant,FIRECOBATT 502  1200mm x 600mm x 50mm,FIRECO HPX 310ml Tube fire-rated Graphite mastic"
+    },
+    {
+      "id": "788",
+      "supplierRef": "V46.3-22SFR00013-118-D",
+      "supplier": "FireCo",
+      "orientation": "Wall",
+      "substrate": "FR plasterboard, 102mm FR plasterboard (1 layer 19mm)",
+      "substrateComplete": true,
+      "serviceClassification": "Other",
+      "serviceType": "Blank",
+      "serviceSize": "1100x35mm",
+      "integrity": 120,
+      "insulation": 90,
+      "productIds": [
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant",
+        "foam-backer-rod-25mm-dia-pe-backer-rod"
+      ],
+      "rawProducts": "FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant,FOAM BACKER ROD 25mm Dia PE backer rod"
+    },
+    {
+      "id": "789",
+      "supplierRef": "V46.3-22SFR00032-137-D",
+      "supplier": "FireCo",
+      "orientation": "Wall",
+      "substrate": "FR plasterboard, 102mm FR plasterboard (1 layer 19mm)",
+      "substrateComplete": true,
+      "serviceClassification": "Other",
+      "serviceType": "Blank",
+      "serviceSize": "1100x10mm",
+      "integrity": 60,
+      "insulation": 60,
+      "productIds": [
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant",
+        "foam-backer-rod-25mm-dia-pe-backer-rod"
+      ],
+      "rawProducts": "FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant,FOAM BACKER ROD 25mm Dia PE backer rod"
+    },
+    {
+      "id": "790",
+      "supplierRef": "V46.4-22SFR00012-152-C",
+      "supplier": "FireCo",
+      "orientation": "Wall",
+      "substrate": "FR plasterboard, 102mm FR plasterboard (1 layer 19mm)",
+      "substrateComplete": true,
+      "serviceClassification": "Other",
+      "serviceType": "Blank",
+      "serviceSize": "1100x10mm",
+      "integrity": 120,
+      "insulation": 120,
+      "productIds": [
+        "ryansil-fire-rated-elastomeric-sealant-grey-600ml-foil-pack-sausage",
+        "foam-backer-rod-25mm-dia-pe-backer-rod"
+      ],
+      "rawProducts": "RYANSIL FIRE RATED ELASTOMERIC SEALANT - (GREY) 600ml Foil Pack Sausage,FOAM BACKER ROD 25mm Dia PE backer rod"
+    },
+    {
+      "id": "791",
+      "supplierRef": "V46.4-22SFR00033-138-C",
+      "supplier": "FireCo",
+      "orientation": "Wall",
+      "substrate": "FR plasterboard, 102mm FR plasterboard (1 layer 19mm)",
+      "substrateComplete": true,
+      "serviceClassification": "Other",
+      "serviceType": "Blank",
+      "serviceSize": "1100x10mm",
+      "integrity": 120,
+      "insulation": 60,
+      "productIds": [
+        "ryansil-fire-rated-elastomeric-sealant-grey-600ml-foil-pack-sausage",
+        "foam-backer-rod-25mm-dia-pe-backer-rod"
+      ],
+      "rawProducts": "RYANSIL FIRE RATED ELASTOMERIC SEALANT - (GREY) 600ml Foil Pack Sausage,FOAM BACKER ROD 25mm Dia PE backer rod"
+    },
+    {
+      "id": "793",
+      "supplierRef": "V46.6-23SFR00098-258-B",
+      "supplier": "FireCo",
+      "orientation": "Wall",
+      "substrate": "Concrete, 150mm concrete wall",
+      "substrateComplete": true,
+      "serviceClassification": "Other",
+      "serviceType": "Blank",
+      "serviceSize": "1100x35mm",
+      "integrity": 120,
+      "insulation": 120,
+      "productIds": [
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant",
+        "foam-backer-rod-25mm-dia-pe-backer-rod"
+      ],
+      "rawProducts": "FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant,FOAM BACKER ROD 25mm Dia PE backer rod"
+    },
+    {
+      "id": "798",
+      "supplierRef": "V5.13-PF 20095-17-G",
+      "supplier": "FireCo",
+      "orientation": "Wall",
+      "substrate": "FR plasterboard, FR plasterboard wall (2 layers 13mm)",
+      "substrateComplete": true,
+      "serviceClassification": "Combustible Pipe",
+      "serviceType": "PVC Pipe",
+      "serviceSize": "Ø50mm",
+      "integrity": 120,
+      "insulation": 120,
+      "productIds": [
+        "fireco-strap-60mm-x-4mm-x-10m-long-graphite-strip",
+        "firecobatt-502-1200mm-x-600mm-x-50mm",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant"
+      ],
+      "rawProducts": "FIRECO STRAP 60mm x 4mm x 10m long graphite strip,FIRECOBATT 502  1200mm x 600mm x 50mm,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant"
+    },
+    {
+      "id": "804",
+      "supplierRef": "V5.19-21SFR00017-112-C",
+      "supplier": "FireCo",
+      "orientation": "Wall",
+      "substrate": "FR plasterboard, FR plasterboard wall (2 layers 13mm)",
+      "substrateComplete": true,
+      "serviceClassification": "Non-Combustible Pipe",
+      "serviceType": "Copper Pipe",
+      "serviceSize": "Ø150mm",
+      "integrity": 120,
+      "insulation": null,
+      "productIds": [
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant",
+        "firecobatt-502-1200mm-x-600mm-x-50mm",
+        "fireco-mastic-brush-grade-5kg-tub-fr-sealant-for-fireco-502-401-802"
+      ],
+      "rawProducts": "FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant,FIRECOBATT 502  1200mm x 600mm x 50mm,FIRECO MASTIC (BRUSH GRADE) 5Kg tub FR sealant for FireCo 502, 401 & 802"
+    },
+    {
+      "id": "808",
+      "supplierRef": "V5.20-22SFR00044-157-E",
+      "supplier": "FireCo",
+      "orientation": "Wall",
+      "substrate": "FR plasterboard, FR plasterboard wall (1 layer 19mm)",
+      "substrateComplete": true,
+      "serviceClassification": "Combustible Pipe",
+      "serviceType": "PVC Pipe",
+      "serviceSize": "Ø80mm",
+      "integrity": 90,
+      "insulation": 90,
+      "productIds": [
+        "fireco-service-sleeve-55mm-dia",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant",
+        "fireco-mastic-brush-grade-5kg-tub-fr-sealant-for-fireco-502-401-802",
+        "firecobatt-502-1200mm-x-600mm-x-50mm"
+      ],
+      "rawProducts": "FIRECO SERVICE SLEEVE  55mm dia,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant,FIRECO MASTIC (BRUSH GRADE) 5Kg tub FR sealant for FireCo 502, 401 & 802,FIRECOBATT 502  1200mm x 600mm x 50mm"
+    },
+    {
+      "id": "811",
+      "supplierRef": "V5.3-PF 19010-62-1",
+      "supplier": "FireCo",
+      "orientation": "Wall",
+      "substrate": "FR plasterboard, FR plasterboard wall (1 layer 13mm)",
+      "substrateComplete": true,
+      "serviceClassification": "Non-Combustible Pipe",
+      "serviceType": "Copper Pipe",
+      "serviceSize": "Ø150mm",
+      "integrity": 60,
+      "insulation": null,
+      "productIds": [
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant",
+        "firecobatt-502-1200mm-x-600mm-x-50mm",
+        "fireco-mastic-brush-grade-5kg-tub-fr-sealant-for-fireco-502-401-802"
+      ],
+      "rawProducts": "FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant,FIRECOBATT 502  1200mm x 600mm x 50mm,FIRECO MASTIC (BRUSH GRADE) 5Kg tub FR sealant for FireCo 502, 401 & 802"
+    },
+    {
+      "id": "813",
+      "supplierRef": "V5.4-PF 19010-62-11",
+      "supplier": "FireCo",
+      "orientation": "Wall",
+      "substrate": "FR plasterboard, FR plasterboard wall (1 layer 13mm)",
+      "substrateComplete": true,
+      "serviceClassification": "Combustible Pipe",
+      "serviceType": "PVC Pipe",
+      "serviceSize": "Ø65mm",
+      "integrity": 60,
+      "insulation": null,
+      "productIds": [
+        "fireco-strap-60mm-x-4mm-x-10m-long-graphite-strip",
+        "firecobatt-502-1200mm-x-600mm-x-50mm",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant",
+        "fireco-mastic-brush-grade-5kg-tub-fr-sealant-for-fireco-502-401-802"
+      ],
+      "rawProducts": "FIRECO STRAP 60mm x 4mm x 10m long graphite strip,FIRECOBATT 502  1200mm x 600mm x 50mm,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant,FIRECO MASTIC (BRUSH GRADE) 5Kg tub FR sealant for FireCo 502, 401 & 802"
+    },
+    {
+      "id": "815",
+      "supplierRef": "V5.6-PF 19010-62-19",
+      "supplier": "FireCo",
+      "orientation": "Wall",
+      "substrate": "FR plasterboard, FR plasterboard wall (1 layer 13mm)",
+      "substrateComplete": true,
+      "serviceClassification": "Combustible Pipe",
+      "serviceType": "HDPE Pipe",
+      "serviceSize": "Ø150mm",
+      "integrity": 30,
+      "insulation": 30,
+      "productIds": [
+        "fireco-sl-collar-160mm-retrofit-collar",
+        "firecobatt-502-1200mm-x-600mm-x-50mm",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant"
+      ],
+      "rawProducts": "FIRECO SL COLLAR  160mm Retrofit Collar ,FIRECOBATT 502  1200mm x 600mm x 50mm,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant"
+    },
+    {
+      "id": "829",
+      "supplierRef": "V52.1-21SFR00049-99-B",
+      "supplier": "FireCo",
+      "orientation": "Floor",
+      "substrate": "Concrete, 75mm linear gap in 120mm concrete floor",
+      "substrateComplete": true,
+      "serviceClassification": "Other",
+      "serviceType": "Blank",
+      "serviceSize": "75mm",
+      "integrity": 60,
+      "insulation": 60,
+      "productIds": [
+        "ryanspan-seismic-movement-joint-foam-laminate-strip-75mm-x-75mm-x-1m-long",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant",
+        "fireco-hpx-310ml-tube-fire-rated-graphite-mastic"
+      ],
+      "rawProducts": "RYANSPAN - SEISMIC MOVEMENT JOINT Foam laminate strip 75mm x 75mm x 1m long,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant,FIRECO HPX 310ml Tube fire-rated Graphite mastic"
+    },
+    {
+      "id": "835",
+      "supplierRef": "V52.13-24SFR00006-288-B",
+      "supplier": "FireCo",
+      "orientation": "Floor",
+      "substrate": "CLT, 75mm linear gap in 106mm CLT floor",
+      "substrateComplete": true,
+      "serviceClassification": "Other",
+      "serviceType": "Blank",
+      "serviceSize": "75x1100mm",
+      "integrity": 60,
+      "insulation": 60,
+      "productIds": [
+        "ryanspan-pro-75-seismic-movement-joint-folded-flange-foam-laminate-strip-100mm-x-75mm-x-1m-long",
+        "ryanfelt-600mm-wide-x-8mm-thick-x-10m-long-roll",
+        "fireco-hpx-310ml-tube-fire-rated-graphite-mastic"
+      ],
+      "rawProducts": "RYANSPAN PRO 75 - SEISMIC MOVEMENT JOINT FOLDED FLANGE Foam laminate strip 100mm x 75mm x 1m long,RYANFELT 600mm wide x 8mm thick x 10m long roll,FIRECO HPX 310ml Tube fire-rated Graphite mastic"
+    },
+    {
+      "id": "842",
+      "supplierRef": "V52.5-PF 22011-108-B",
+      "supplier": "FireCo",
+      "orientation": "Floor",
+      "substrate": "Concrete, 120mm concrete floor",
+      "substrateComplete": true,
+      "serviceClassification": "Other",
+      "serviceType": "Blank",
+      "serviceSize": "50mm",
+      "integrity": 60,
+      "insulation": 30,
+      "productIds": [
+        "ryanmesh-60-50-up-to-50mm-cavity-1-22m-length"
+      ],
+      "rawProducts": "RYANMESH 60/50 - up to 50mm cavity 1.22m length"
+    },
+    {
+      "id": "853",
+      "supplierRef": "V53.16-PF 21069-97-SE",
+      "supplier": "FireCo",
+      "orientation": "Wall",
+      "substrate": "Unlined Timber,",
+      "substrateComplete": false,
+      "serviceClassification": "Other",
+      "serviceType": "Blank",
+      "serviceSize": "2950x3000mm",
+      "integrity": 60,
+      "insulation": 60,
+      "productIds": [
+        "firecobatt-802-1000mm-x-600mm-x-80mm",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant",
+        "fireco-mastic-brush-grade-5kg-tub-fr-sealant-for-fireco-502-401-802"
+      ],
+      "rawProducts": "FIRECOBATT 802  1000mm x 600mm x 80mm,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant,FIRECO MASTIC (BRUSH GRADE) 5Kg tub FR sealant for FireCo 502, 401 & 802"
+    },
+    {
+      "id": "861",
+      "supplierRef": "V53.23-PF 21005-23-C",
+      "supplier": "FireCo",
+      "orientation": "Wall",
+      "substrate": "FR plasterboard, FR plasterboard wall (2 layers 13mm)",
+      "substrateComplete": true,
+      "serviceClassification": "Electrical Penetration",
+      "serviceType": "Cable Tray D1",
+      "serviceSize": "300mm",
+      "integrity": 120,
+      "insulation": 120,
+      "productIds": [
+        "fireco-servowrap-penetration-wrap-300mm-wide-x-10m-long-15mm-thick",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant",
+        "firecobatt-502-1200mm-x-600mm-x-50mm"
+      ],
+      "rawProducts": "FIRECO SERVOWRAP (Penetration Wrap) 300mm wide x 10m long (15mm thick),FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant,FIRECOBATT 502  1200mm x 600mm x 50mm"
+    },
+    {
+      "id": "867",
+      "supplierRef": "V53.27-21SFR00018-130-A",
+      "supplier": "FireCo",
+      "orientation": "Wall",
+      "substrate": "FR plasterboard, FR plasterboard wall (2 layers 13mm)",
+      "substrateComplete": true,
+      "serviceClassification": "Other",
+      "serviceType": "Blank",
+      "serviceSize": "1000x1000mm",
+      "integrity": 120,
+      "insulation": 120,
+      "productIds": [
+        "firecobatt-502-1200mm-x-600mm-x-50mm",
+        "fireco-mastic-brush-grade-5kg-tub-fr-sealant-for-fireco-502-401-802",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant"
+      ],
+      "rawProducts": "FIRECOBATT 502  1200mm x 600mm x 50mm,FIRECO MASTIC (BRUSH GRADE) 5Kg tub FR sealant for FireCo 502, 401 & 802,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant"
+    },
+    {
+      "id": "918",
+      "supplierRef": "V64.20-23SFR00097-266-B",
+      "supplier": "FireCo",
+      "orientation": "Wall",
+      "substrate": "FR plasterboard, 190mm Glulam timber beam (1 layer 19mm)",
+      "substrateComplete": true,
+      "serviceClassification": "Structural Penetration",
+      "serviceType": "Timber Beam",
+      "serviceSize": "190mm",
+      "integrity": 120,
+      "insulation": 120,
+      "productIds": [
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant",
+        "firecobatt-502-1200mm-x-600mm-x-50mm",
+        "fireco-mastic-brush-grade-5kg-tub-fr-sealant-for-fireco-502-401-802",
+        "fireco-strap-60mm-x-4mm-x-10m-long-graphite-strip"
+      ],
+      "rawProducts": "FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant,FIRECOBATT 502  1200mm x 600mm x 50mm,FIRECO MASTIC (BRUSH GRADE) 5Kg tub FR sealant for FireCo 502, 401 & 802,FIRECO STRAP 60mm x 4mm x 10m long graphite strip"
+    },
+    {
+      "id": "941",
+      "supplierRef": "V67.11-23SFR00071-237-B",
+      "supplier": "FireCo",
+      "orientation": "Ceiling",
+      "substrate": "FR plasterboard, 19mm FR plasterboard ceiling (1 layer 19mm)",
+      "substrateComplete": true,
+      "serviceClassification": "Other",
+      "serviceType": "Blank",
+      "serviceSize": "1100x75mm",
+      "integrity": 120,
+      "insulation": 120,
+      "productIds": [
+        "ryanspan-seismic-movement-joint-foam-laminate-strip-75mm-x-75mm-x-1m-long",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant",
+        "fireco-hpx-310ml-tube-fire-rated-graphite-mastic"
+      ],
+      "rawProducts": "RYANSPAN - SEISMIC MOVEMENT JOINT Foam laminate strip 75mm x 75mm x 1m long,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant,FIRECO HPX 310ml Tube fire-rated Graphite mastic"
+    },
+    {
+      "id": "943",
+      "supplierRef": "V67.1-22SFR00013-118-A",
+      "supplier": "FireCo",
+      "orientation": "Wall",
+      "substrate": "FR plasterboard,",
+      "substrateComplete": false,
+      "serviceClassification": "Other",
+      "serviceType": "Blank",
+      "serviceSize": "50mm",
+      "integrity": 120,
+      "insulation": 90,
+      "productIds": [
+        "ryanspan-seismic-movement-joint-foam-laminate-strip-50mm-x-50mm-x-1m-long",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant",
+        "fireco-hpx-310ml-tube-fire-rated-graphite-mastic"
+      ],
+      "rawProducts": "RYANSPAN - SEISMIC MOVEMENT JOINT Foam laminate strip 50mm x 50mm x 1m long,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant,FIRECO HPX 310ml Tube fire-rated Graphite mastic"
+    },
+    {
+      "id": "944",
+      "supplierRef": "V67.1-22SFR00032-137-E",
+      "supplier": "FireCo",
+      "orientation": "Wall",
+      "substrate": "FR plasterboard,",
+      "substrateComplete": false,
+      "serviceClassification": "Other",
+      "serviceType": "Blank",
+      "serviceSize": "75mm",
+      "integrity": 120,
+      "insulation": 90,
+      "productIds": [
+        "ryanspan-seismic-movement-joint-foam-laminate-strip-75mm-x-75mm-x-1m-long",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant",
+        "fireco-hpx-310ml-tube-fire-rated-graphite-mastic"
+      ],
+      "rawProducts": "RYANSPAN - SEISMIC MOVEMENT JOINT Foam laminate strip 75mm x 75mm x 1m long,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant,FIRECO HPX 310ml Tube fire-rated Graphite mastic"
+    },
+    {
+      "id": "946",
+      "supplierRef": "V67.14-23SFR00096-262-B",
+      "supplier": "FireCo",
+      "orientation": "Wall",
+      "substrate": "FR plasterboard,",
+      "substrateComplete": false,
+      "serviceClassification": "Other",
+      "serviceType": "Blank",
+      "serviceSize": "75mm",
+      "integrity": 120,
+      "insulation": 90,
+      "productIds": [
+        "ryanspan-pro-75-seismic-movement-joint-folded-flange-foam-laminate-strip-100mm-x-75mm-x-1m-long"
+      ],
+      "rawProducts": "RYANSPAN PRO 75 - SEISMIC MOVEMENT JOINT FOLDED FLANGE Foam laminate strip 100mm x 75mm x 1m long"
+    },
+    {
+      "id": "952",
+      "supplierRef": "V67.5-22SFR00062-169-C",
+      "supplier": "FireCo",
+      "orientation": "Wall",
+      "substrate": "FR plasterboard,",
+      "substrateComplete": false,
+      "serviceClassification": "Other",
+      "serviceType": "Blank",
+      "serviceSize": "50mm",
+      "integrity": 120,
+      "insulation": 120,
+      "productIds": [
+        "ryanspan-seismic-movement-joint-foam-laminate-strip-50mm-x-50mm-x-1m-long",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant",
+        "fireco-hpx-310ml-tube-fire-rated-graphite-mastic"
+      ],
+      "rawProducts": "RYANSPAN - SEISMIC MOVEMENT JOINT Foam laminate strip 50mm x 50mm x 1m long,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant,FIRECO HPX 310ml Tube fire-rated Graphite mastic"
+    },
+    {
+      "id": "955",
+      "supplierRef": "V67.8-23SFR00048-222-B",
+      "supplier": "FireCo",
+      "orientation": "Wall",
+      "substrate": "FR plasterboard,",
+      "substrateComplete": false,
+      "serviceClassification": "Other",
+      "serviceType": "Blank",
+      "serviceSize": "75mm",
+      "integrity": 60,
+      "insulation": 60,
+      "productIds": [
+        "ryanspan-seismic-movement-joint-foam-laminate-strip-25mm-x-25mm-x-1m-long",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant",
+        "fireco-hpx-310ml-tube-fire-rated-graphite-mastic"
+      ],
+      "rawProducts": "RYANSPAN - SEISMIC MOVEMENT JOINT Foam laminate strip 25mm x 25mm x 1m long,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant,FIRECO HPX 310ml Tube fire-rated Graphite mastic"
+    },
+    {
+      "id": "959",
+      "supplierRef": "V7.1-PF 21005-23-A",
+      "supplier": "FireCo",
+      "orientation": "Wall",
+      "substrate": "FR plasterboard, FR plasterboard wall (2 layers 13mm)",
+      "substrateComplete": true,
+      "serviceClassification": "Non-Combustible Pipe",
+      "serviceType": "Copper Pipe",
+      "serviceSize": "Ø150mm",
+      "integrity": 120,
+      "insulation": 120,
+      "productIds": [
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant",
+        "fireco-firecowrap-1000mm-wide-x-6-5m-long-40mm-thick",
+        "firecobatt-502-1200mm-x-600mm-x-50mm",
+        "sabre-reinforced-alum-foil-tape-75mm-50",
+        "stainless-steel-cable-ties-12mm-wide-x-1000mm-long"
+      ],
+      "rawProducts": "FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant,FIRECO FIRECOWRAP 1000mm wide x 6.5m long (40mm thick),FIRECOBATT 502  1200mm x 600mm x 50mm,Sabre Reinforced Alum Foil Tape 75mm/50,STAINLESS STEEL CABLE TIES 12mm wide x 1000mm long"
+    },
+    {
+      "id": "964",
+      "supplierRef": "V9.13-PF 20101-25-D",
+      "supplier": "FireCo",
+      "orientation": "Floor",
+      "substrate": "Concrete, 120mm concrete floor",
+      "substrateComplete": true,
+      "serviceClassification": "Non-Combustible Pipe",
+      "serviceType": "Brass Pipe",
+      "serviceSize": "Ø100mm",
+      "integrity": 120,
+      "insulation": 60,
+      "productIds": [
+        "firecobatt-502-1200mm-x-600mm-x-50mm",
+        "fireco-mastic-brush-grade-5kg-tub-fr-sealant-for-fireco-502-401-802",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant",
+        "fireco-servowrap-penetration-wrap-300mm-wide-x-10m-long-15mm-thick"
+      ],
+      "rawProducts": "FIRECOBATT 502  1200mm x 600mm x 50mm,FIRECO MASTIC (BRUSH GRADE) 5Kg tub FR sealant for FireCo 502, 401 & 802,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant,FIRECO SERVOWRAP (Penetration Wrap) 300mm wide x 10m long (15mm thick)"
+    },
+    {
+      "id": "968",
+      "supplierRef": "V9.16-21SFR00063-113-C",
+      "supplier": "FireCo",
+      "orientation": "Floor",
+      "substrate": "Concrete, 120mm concrete floor",
+      "substrateComplete": true,
+      "serviceClassification": "Non-Combustible Pipe",
+      "serviceType": "Brass Pipe",
+      "serviceSize": "Ø100mm",
+      "integrity": 90,
+      "insulation": null,
+      "productIds": [
+        "firecobatt-502-1200mm-x-600mm-x-50mm",
+        "fireco-mastic-brush-grade-5kg-tub-fr-sealant-for-fireco-502-401-802",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant"
+      ],
+      "rawProducts": "FIRECOBATT 502  1200mm x 600mm x 50mm,FIRECO MASTIC (BRUSH GRADE) 5Kg tub FR sealant for FireCo 502, 401 & 802,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant"
+    },
+    {
+      "id": "970",
+      "supplierRef": "V9.18-22SFR00066-173-A",
+      "supplier": "FireCo",
+      "orientation": "Floor",
+      "substrate": "Timber Infill, 100mm Timber Infill floor",
+      "substrateComplete": true,
+      "serviceClassification": "Non-Combustible Pipe",
+      "serviceType": "Brass Pipe",
+      "serviceSize": "Ø100mm",
+      "integrity": 60,
+      "insulation": 15,
+      "productIds": [
+        "firecobatt-502-1200mm-x-600mm-x-50mm",
+        "fireco-mastic-brush-grade-5kg-tub-fr-sealant-for-fireco-502-401-802",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant"
+      ],
+      "rawProducts": "FIRECOBATT 502  1200mm x 600mm x 50mm,FIRECO MASTIC (BRUSH GRADE) 5Kg tub FR sealant for FireCo 502, 401 & 802,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant"
+    },
+    {
+      "id": "972",
+      "supplierRef": "V9.20-22SFR00069-179-C",
+      "supplier": "FireCo",
+      "orientation": "Floor",
+      "substrate": "Concrete, 125mm concrete floor",
+      "substrateComplete": true,
+      "serviceClassification": "Non-Combustible Pipe",
+      "serviceType": "Copper Pipe",
+      "serviceSize": "Ø150mm",
+      "integrity": 120,
+      "insulation": 120,
+      "productIds": [
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant",
+        "fireco-firecowrap-1000mm-wide-x-6-5m-long-40mm-thick",
+        "firecobatt-502-1200mm-x-600mm-x-50mm",
+        "sabre-reinforced-alum-foil-tape-75mm-50"
+      ],
+      "rawProducts": "FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant,FIRECO FIRECOWRAP 1000mm wide x 6.5m long (40mm thick),FIRECOBATT 502  1200mm x 600mm x 50mm,Sabre Reinforced Alum Foil Tape 75mm/50"
+    },
+    {
+      "id": "973",
+      "supplierRef": "V9.21-23SFR00024-205-D",
+      "supplier": "FireCo",
+      "orientation": "Floor",
+      "substrate": "Concrete, 125mm concrete floor",
+      "substrateComplete": true,
+      "serviceClassification": "Insulated Pipe",
+      "serviceType": "Copper Pipe - 25mm Thermobreak",
+      "serviceSize": "Ø65mm",
+      "integrity": 60,
+      "insulation": 60,
+      "productIds": [
+        "fireco-strap-60mm-x-4mm-x-10m-long-graphite-strip",
+        "firecobatt-502-1200mm-x-600mm-x-50mm",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant",
+        "fireco-servowrap-penetration-wrap-300mm-wide-x-10m-long-15mm-thick"
+      ],
+      "rawProducts": "FIRECO STRAP 60mm x 4mm x 10m long graphite strip,FIRECOBATT 502  1200mm x 600mm x 50mm,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant,FIRECO SERVOWRAP (Penetration Wrap) 300mm wide x 10m long (15mm thick)"
+    },
+    {
+      "id": "974",
+      "supplierRef": "V9.22-23SFR00024-205-B",
+      "supplier": "FireCo",
+      "orientation": "Floor",
+      "substrate": "Concrete, 125mm concrete floor",
+      "substrateComplete": true,
+      "serviceClassification": "Insulated Pipe",
+      "serviceType": "Copper Pipe - 25mm Nitrile Rubber",
+      "serviceSize": "Ø100mm",
+      "integrity": 60,
+      "insulation": 60,
+      "productIds": [
+        "fireco-strap-60mm-x-4mm-x-10m-long-graphite-strip",
+        "firecobatt-502-1200mm-x-600mm-x-50mm",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant",
+        "fireco-servowrap-penetration-wrap-300mm-wide-x-10m-long-15mm-thick"
+      ],
+      "rawProducts": "FIRECO STRAP 60mm x 4mm x 10m long graphite strip,FIRECOBATT 502  1200mm x 600mm x 50mm,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant,FIRECO SERVOWRAP (Penetration Wrap) 300mm wide x 10m long (15mm thick)"
+    },
+    {
+      "id": "976",
+      "supplierRef": "V9.24-23SFR00070-249-C",
+      "supplier": "FireCo",
+      "orientation": "Floor",
+      "substrate": "CLT, 103mm CLT floor",
+      "substrateComplete": true,
+      "serviceClassification": "Insulated Pipe",
+      "serviceType": "Copper Pipe - 65mm Thermobreak",
+      "serviceSize": "Ø50mm",
+      "integrity": 60,
+      "insulation": 60,
+      "productIds": [
+        "fireco-strap-60mm-x-4mm-x-10m-long-graphite-strip",
+        "firecobatt-502-1200mm-x-600mm-x-50mm",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant",
+        "fireco-servowrap-penetration-wrap-300mm-wide-x-10m-long-15mm-thick"
+      ],
+      "rawProducts": "FIRECO STRAP 60mm x 4mm x 10m long graphite strip,FIRECOBATT 502  1200mm x 600mm x 50mm,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant,FIRECO SERVOWRAP (Penetration Wrap) 300mm wide x 10m long (15mm thick)"
+    },
+    {
+      "id": "977",
+      "supplierRef": "V9.25-23SFR00088-260-B",
+      "supplier": "FireCo",
+      "orientation": "Floor",
+      "substrate": "Timber Infill, 100mm timber infill floor",
+      "substrateComplete": true,
+      "serviceClassification": "Insulated Pipe",
+      "serviceType": "Copper Pipe - 38mm Nitrile Rubber",
+      "serviceSize": "Ø32mm",
+      "integrity": 60,
+      "insulation": 60,
+      "productIds": [
+        "firecobatt-502-1200mm-x-600mm-x-50mm",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant",
+        "fireco-strap-60mm-x-4mm-x-10m-long-graphite-strip"
+      ],
+      "rawProducts": "FIRECOBATT 502  1200mm x 600mm x 50mm,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant,FIRECO STRAP 60mm x 4mm x 10m long graphite strip"
+    },
+    {
+      "id": "979",
+      "supplierRef": "V9.27-24SFR00062-307-B",
+      "supplier": "FireCo",
+      "orientation": "Ceiling",
+      "substrate": "FR plasterboard, FR plasterboard ceiling (1 layer 16mm)",
+      "substrateComplete": true,
+      "serviceClassification": "Non-Combustible Pipe",
+      "serviceType": "Copper Pipe",
+      "serviceSize": "80mm",
+      "integrity": 60,
+      "insulation": 15,
+      "productIds": [
+        "firecobatt-502-1200mm-x-600mm-x-50mm",
+        "fireco-mastic-brush-grade-5kg-tub-fr-sealant-for-fireco-502-401-802",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant"
+      ],
+      "rawProducts": "FIRECOBATT 502  1200mm x 600mm x 50mm,FIRECO MASTIC (BRUSH GRADE) 5Kg tub FR sealant for FireCo 502, 401 & 802,FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant"
+    },
+    {
+      "id": "980",
+      "supplierRef": "V9.28-24SFR00063-313-G",
+      "supplier": "FireCo",
+      "orientation": "Floor",
+      "substrate": "CLT, 105mm CLT floor",
+      "substrateComplete": true,
+      "serviceClassification": "Non-Combustible Pipe",
+      "serviceType": "Copper Pipe",
+      "serviceSize": "Ø100mm",
+      "integrity": 60,
+      "insulation": 45,
+      "productIds": [
+        "fireco-servowrap-penetration-wrap-300mm-wide-x-10m-long-15mm-thick",
+        "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant"
+      ],
+      "rawProducts": "FIRECO SERVOWRAP (Penetration Wrap) 300mm wide x 10m long (15mm thick),FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant"
+    }
+  ],
+  "products": [
+    {
+      "id": "fireco-collar-backing-plate-for-sl-collar-55mm-310mm-x-310mm-x-1-2mm-thick",
+      "name": "FIRECO COLLAR BACKING PLATE - FOR SL COLLAR 55mm 310mm x 310mm x 1.2mm thick"
+    },
+    {
+      "id": "fireco-firecowrap-1000mm-wide-x-6-5m-long-40mm-thick",
+      "name": "FIRECO FIRECOWRAP 1000mm wide x 6.5m long (40mm thick)"
+    },
+    {
+      "id": "fireco-fs-collars-40mm-retrofit-collar",
+      "name": "FIRECO FS COLLARS 40mm Retrofit Collar"
+    },
+    {
+      "id": "fireco-fs-collars-55mm-retrofit-collar",
+      "name": "FIRECO FS COLLARS 55mm Retrofit Collar"
+    },
+    {
+      "id": "fireco-hpx-310ml-tube-fire-rated-graphite-mastic",
+      "name": "FIRECO HPX 310ml Tube fire-rated Graphite mastic"
+    },
+    {
+      "id": "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant",
+      "name": "FIRECO MASTIC 600ml Sausage fire-rated acrylic sealant"
+    },
+    {
+      "id": "fireco-mastic-brush-grade-5kg-tub-fr-sealant-for-fireco-502-401-802",
+      "name": "FIRECO MASTIC (BRUSH GRADE) 5Kg tub FR sealant for FireCo 502, 401 & 802"
+    },
+    {
+      "id": "fireco-putty-cord-200mm-length",
+      "name": "FIRECO PUTTY CORD 200mm length"
+    },
+    {
+      "id": "fireco-service-sleeve-40mm-dia",
+      "name": "FIRECO SERVICE SLEEVE 40mm dia"
+    },
+    {
+      "id": "fireco-service-sleeve-55mm-dia",
+      "name": "FIRECO SERVICE SLEEVE 55mm dia"
+    },
+    {
+      "id": "fireco-servowrap-penetration-wrap-300mm-wide-x-10m-long-15mm-thick",
+      "name": "FIRECO SERVOWRAP (Penetration Wrap) 300mm wide x 10m long (15mm thick)"
+    },
+    {
+      "id": "fireco-sl-collar-110mm-retrofit-collar",
+      "name": "FIRECO SL COLLAR 110mm Retrofit Collar"
+    },
+    {
+      "id": "fireco-sl-collar-160mm-retrofit-collar",
+      "name": "FIRECO SL COLLAR 160mm Retrofit Collar"
+    },
+    {
+      "id": "fireco-sl-collar-25mm-retrofit-collar",
+      "name": "FIRECO SL COLLAR 25mm Retrofit Collar"
+    },
+    {
+      "id": "fireco-sl-collar-30mm-retrofit-collar",
+      "name": "FIRECO SL COLLAR 30mm Retrofit Collar"
+    },
+    {
+      "id": "fireco-sl-collar-40mm-retrofit-collar",
+      "name": "FIRECO SL COLLAR 40mm Retrofit Collar"
+    },
+    {
+      "id": "fireco-sl-collar-55mm-retrofit-collar",
+      "name": "FIRECO SL COLLAR 55mm Retrofit Collar"
+    },
+    {
+      "id": "fireco-sl-collar-65mm-retrofit-collar",
+      "name": "FIRECO SL COLLAR 65mm Retrofit Collar"
+    },
+    {
+      "id": "fireco-sl-collar-80mm-retrofit-collar",
+      "name": "FIRECO SL COLLAR 80mm Retrofit Collar"
+    },
+    {
+      "id": "fireco-slh-half-collar-100mm-retrofit-collar",
+      "name": "FIRECO SLH HALF COLLAR 100mm Retrofit Collar"
+    },
+    {
+      "id": "fireco-strap-60mm-x-4mm-x-10m-long-graphite-strip",
+      "name": "FIRECO STRAP 60mm x 4mm x 10m long graphite strip"
+    },
+    {
+      "id": "fireco-td-collars-drop-ins-110mm-drop-in-collar",
+      "name": "FIRECO TD COLLARS (Drop-Ins) 110mm Drop in Collar"
+    },
+    {
+      "id": "fireco-td-collars-drop-ins-65mm-drop-in-collar",
+      "name": "FIRECO TD COLLARS (Drop-Ins) 65mm Drop in Collar"
+    },
+    {
+      "id": "firecobatt-502-1200mm-x-600mm-x-50mm",
+      "name": "FIRECOBATT 502 1200mm x 600mm x 50mm"
+    },
+    {
+      "id": "firecobatt-802-1000mm-x-600mm-x-80mm",
+      "name": "FIRECOBATT 802 1000mm x 600mm x 80mm"
+    },
+    {
+      "id": "foam-backer-rod-25mm-dia-pe-backer-rod",
+      "name": "FOAM BACKER ROD 25mm Dia PE backer rod"
+    },
+    {
+      "id": "ryanfelt-600mm-wide-x-8mm-thick-x-10m-long-roll",
+      "name": "RYANFELT 600mm wide x 8mm thick x 10m long roll"
+    },
+    {
+      "id": "ryanmesh-60-50-up-to-50mm-cavity-1-22m-length",
+      "name": "RYANMESH 60/50 - up to 50mm cavity 1.22m length"
+    },
+    {
+      "id": "ryanrock-6050l-1200mm-x-600mm-x-50mm-60kg-m3-density",
+      "name": "RYANROCK 6050L 1200mm x 600mm x 50mm - 60Kg/m3 density"
+    },
+    {
+      "id": "ryansil-fire-rated-elastomeric-sealant-grey-600ml-foil-pack-sausage",
+      "name": "RYANSIL FIRE RATED ELASTOMERIC SEALANT - (GREY) 600ml Foil Pack Sausage"
+    },
+    {
+      "id": "ryanspan-pro-75-seismic-movement-joint-folded-flange-foam-laminate-strip-100mm-x-75mm-x-1m-long",
+      "name": "RYANSPAN PRO 75 - SEISMIC MOVEMENT JOINT FOLDED FLANGE Foam laminate strip 100mm x 75mm x 1m long"
+    },
+    {
+      "id": "ryanspan-seismic-movement-joint-foam-laminate-strip-25mm-x-25mm-x-1m-long",
+      "name": "RYANSPAN - SEISMIC MOVEMENT JOINT Foam laminate strip 25mm x 25mm x 1m long"
+    },
+    {
+      "id": "ryanspan-seismic-movement-joint-foam-laminate-strip-50mm-x-50mm-x-1m-long",
+      "name": "RYANSPAN - SEISMIC MOVEMENT JOINT Foam laminate strip 50mm x 50mm x 1m long"
+    },
+    {
+      "id": "ryanspan-seismic-movement-joint-foam-laminate-strip-75mm-x-75mm-x-1m-long",
+      "name": "RYANSPAN - SEISMIC MOVEMENT JOINT Foam laminate strip 75mm x 75mm x 1m long"
+    },
+    {
+      "id": "sabre-reinforced-alum-foil-tape-75mm-50",
+      "name": "Sabre Reinforced Alum Foil Tape 75mm/50"
+    },
+    {
+      "id": "stainless-steel-cable-ties-12mm-wide-x-1000mm-long",
+      "name": "STAINLESS STEEL CABLE TIES 12mm wide x 1000mm long"
+    }
+  ]
+}

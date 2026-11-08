@@ -1,0 +1,275 @@
+{
+  "_notice": "SAMPLE DATA for the QAntum take-home exercise. Invented for demonstration. Not real plans, stock, usage or approvals.",
+  "usageRules": [
+    {
+      "solutionId": "435",
+      "productId": "fireco-strap-60mm-x-4mm-x-10m-long-graphite-strip",
+      "perPenetration": 0.5,
+      "unit": "rolls"
+    },
+    {
+      "solutionId": "435",
+      "productId": "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant",
+      "perPenetration": 0.25,
+      "unit": "sausages"
+    },
+    {
+      "solutionId": "435",
+      "productId": "fireco-servowrap-penetration-wrap-300mm-wide-x-10m-long-15mm-thick",
+      "perPenetration": 0.25,
+      "unit": "rolls"
+    },
+    {
+      "solutionId": "435",
+      "productId": "firecobatt-502-1200mm-x-600mm-x-50mm",
+      "perPenetration": 0.5,
+      "unit": "sheets"
+    },
+    {
+      "solutionId": "440",
+      "productId": "fireco-sl-collar-25mm-retrofit-collar",
+      "perPenetration": 1,
+      "unit": "each"
+    },
+    {
+      "solutionId": "440",
+      "productId": "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant",
+      "perPenetration": 0.25,
+      "unit": "sausages"
+    },
+    {
+      "solutionId": "451",
+      "productId": "fireco-sl-collar-25mm-retrofit-collar",
+      "perPenetration": 1,
+      "unit": "each"
+    },
+    {
+      "solutionId": "451",
+      "productId": "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant",
+      "perPenetration": 0.25,
+      "unit": "sausages"
+    },
+    {
+      "solutionId": "451",
+      "productId": "fireco-hpx-310ml-tube-fire-rated-graphite-mastic",
+      "perPenetration": 0.5,
+      "unit": "tubes"
+    },
+    {
+      "solutionId": "464",
+      "productId": "fireco-slh-half-collar-100mm-retrofit-collar",
+      "perPenetration": 1,
+      "unit": "each"
+    },
+    {
+      "solutionId": "464",
+      "productId": "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant",
+      "perPenetration": 0.25,
+      "unit": "sausages"
+    },
+    {
+      "solutionId": "464",
+      "productId": "fireco-hpx-310ml-tube-fire-rated-graphite-mastic",
+      "perPenetration": 0.5,
+      "unit": "tubes"
+    },
+    {
+      "solutionId": "478",
+      "productId": "fireco-sl-collar-110mm-retrofit-collar",
+      "perPenetration": 1,
+      "unit": "each"
+    },
+    {
+      "solutionId": "478",
+      "productId": "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant",
+      "perPenetration": 0.25,
+      "unit": "sausages"
+    },
+    {
+      "solutionId": "478",
+      "productId": "fireco-hpx-310ml-tube-fire-rated-graphite-mastic",
+      "perPenetration": 0.5,
+      "unit": "tubes"
+    },
+    {
+      "solutionId": "481",
+      "productId": "fireco-sl-collar-80mm-retrofit-collar",
+      "perPenetration": 1,
+      "unit": "each"
+    },
+    {
+      "solutionId": "481",
+      "productId": "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant",
+      "perPenetration": 0.25,
+      "unit": "sausages"
+    },
+    {
+      "solutionId": "512",
+      "productId": "fireco-sl-collar-80mm-retrofit-collar",
+      "perPenetration": 1,
+      "unit": "each"
+    },
+    {
+      "solutionId": "512",
+      "productId": "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant",
+      "perPenetration": 0.25,
+      "unit": "sausages"
+    },
+    {
+      "solutionId": "512",
+      "productId": "fireco-hpx-310ml-tube-fire-rated-graphite-mastic",
+      "perPenetration": 0.5,
+      "unit": "tubes"
+    },
+    {
+      "solutionId": "542",
+      "productId": "fireco-sl-collar-110mm-retrofit-collar",
+      "perPenetration": 1,
+      "unit": "each"
+    },
+    {
+      "solutionId": "542",
+      "productId": "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant",
+      "perPenetration": 0.25,
+      "unit": "sausages"
+    },
+    {
+      "solutionId": "542",
+      "productId": "fireco-hpx-310ml-tube-fire-rated-graphite-mastic",
+      "perPenetration": 0.5,
+      "unit": "tubes"
+    },
+    {
+      "solutionId": "707",
+      "productId": "fireco-sl-collar-55mm-retrofit-collar",
+      "perPenetration": 1,
+      "unit": "each"
+    },
+    {
+      "solutionId": "707",
+      "productId": "firecobatt-502-1200mm-x-600mm-x-50mm",
+      "perPenetration": 0.5,
+      "unit": "sheets"
+    },
+    {
+      "solutionId": "707",
+      "productId": "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant",
+      "perPenetration": 0.25,
+      "unit": "sausages"
+    },
+    {
+      "solutionId": "707",
+      "productId": "fireco-mastic-brush-grade-5kg-tub-fr-sealant-for-fireco-502-401-802",
+      "perPenetration": 0.25,
+      "unit": "tubs"
+    },
+    {
+      "solutionId": "707",
+      "productId": "foam-backer-rod-25mm-dia-pe-backer-rod",
+      "perPenetration": 0.5,
+      "unit": "lengths"
+    },
+    {
+      "solutionId": "708",
+      "productId": "fireco-sl-collar-25mm-retrofit-collar",
+      "perPenetration": 1,
+      "unit": "each"
+    },
+    {
+      "solutionId": "708",
+      "productId": "firecobatt-502-1200mm-x-600mm-x-50mm",
+      "perPenetration": 0.5,
+      "unit": "sheets"
+    },
+    {
+      "solutionId": "708",
+      "productId": "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant",
+      "perPenetration": 0.25,
+      "unit": "sausages"
+    },
+    {
+      "solutionId": "708",
+      "productId": "fireco-mastic-brush-grade-5kg-tub-fr-sealant-for-fireco-502-401-802",
+      "perPenetration": 0.25,
+      "unit": "tubs"
+    },
+    {
+      "solutionId": "726",
+      "productId": "fireco-firecowrap-1000mm-wide-x-6-5m-long-40mm-thick",
+      "perPenetration": 0.5,
+      "unit": "rolls"
+    },
+    {
+      "solutionId": "726",
+      "productId": "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant",
+      "perPenetration": 0.25,
+      "unit": "sausages"
+    },
+    {
+      "solutionId": "733",
+      "productId": "fireco-sl-collar-55mm-retrofit-collar",
+      "perPenetration": 1,
+      "unit": "each"
+    },
+    {
+      "solutionId": "733",
+      "productId": "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant",
+      "perPenetration": 0.25,
+      "unit": "sausages"
+    },
+    {
+      "solutionId": "734",
+      "productId": "fireco-sl-collar-55mm-retrofit-collar",
+      "perPenetration": 1,
+      "unit": "each"
+    },
+    {
+      "solutionId": "734",
+      "productId": "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant",
+      "perPenetration": 0.25,
+      "unit": "sausages"
+    },
+    {
+      "solutionId": "736",
+      "productId": "fireco-sl-collar-55mm-retrofit-collar",
+      "perPenetration": 1,
+      "unit": "each"
+    },
+    {
+      "solutionId": "736",
+      "productId": "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant",
+      "perPenetration": 0.25,
+      "unit": "sausages"
+    },
+    {
+      "solutionId": "790",
+      "productId": "ryansil-fire-rated-elastomeric-sealant-grey-600ml-foil-pack-sausage",
+      "perPenetration": 1,
+      "unit": "sausages"
+    },
+    {
+      "solutionId": "790",
+      "productId": "foam-backer-rod-25mm-dia-pe-backer-rod",
+      "perPenetration": 0.5,
+      "unit": "lengths"
+    },
+    {
+      "solutionId": "793",
+      "productId": "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant",
+      "perPenetration": 0.25,
+      "unit": "sausages"
+    },
+    {
+      "solutionId": "980",
+      "productId": "fireco-servowrap-penetration-wrap-300mm-wide-x-10m-long-15mm-thick",
+      "perPenetration": 0.5,
+      "unit": "rolls"
+    },
+    {
+      "solutionId": "980",
+      "productId": "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant",
+      "perPenetration": 0.25,
+      "unit": "sausages"
+    }
+  ]
+}

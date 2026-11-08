@@ -1,0 +1,2 @@
+# The supplied file must stay byte for byte as received.
+data/source/** -text

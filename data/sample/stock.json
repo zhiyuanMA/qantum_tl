@@ -1,0 +1,150 @@
+{
+  "_notice": "SAMPLE DATA for the QAntum take-home exercise. Invented for demonstration. Not real plans, stock, usage or approvals.",
+  "balances": [
+    {
+      "stockPoolId": "pool-central",
+      "productId": "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant",
+      "quantity": 60,
+      "unit": "sausages",
+      "asOfHoursAgo": 2
+    },
+    {
+      "stockPoolId": "pool-central",
+      "productId": "fireco-hpx-310ml-tube-fire-rated-graphite-mastic",
+      "quantity": 30,
+      "unit": "tubes",
+      "asOfHoursAgo": 2
+    },
+    {
+      "stockPoolId": "pool-central",
+      "productId": "fireco-sl-collar-25mm-retrofit-collar",
+      "quantity": 14,
+      "unit": "each",
+      "asOfHoursAgo": 2
+    },
+    {
+      "stockPoolId": "pool-central",
+      "productId": "fireco-sl-collar-55mm-retrofit-collar",
+      "quantity": 20,
+      "unit": "each",
+      "asOfHoursAgo": 2
+    },
+    {
+      "stockPoolId": "pool-central",
+      "productId": "fireco-sl-collar-80mm-retrofit-collar",
+      "quantity": 20,
+      "unit": "each",
+      "asOfHoursAgo": 2
+    },
+    {
+      "stockPoolId": "pool-central",
+      "productId": "fireco-sl-collar-110mm-retrofit-collar",
+      "quantity": 20,
+      "unit": "each",
+      "asOfHoursAgo": 2
+    },
+    {
+      "stockPoolId": "pool-central",
+      "productId": "fireco-slh-half-collar-100mm-retrofit-collar",
+      "quantity": 20,
+      "unit": "each",
+      "asOfHoursAgo": 2
+    },
+    {
+      "stockPoolId": "pool-central",
+      "productId": "firecobatt-502-1200mm-x-600mm-x-50mm",
+      "quantity": 20,
+      "unit": "sheets",
+      "asOfHoursAgo": 2
+    },
+    {
+      "stockPoolId": "pool-central",
+      "productId": "fireco-mastic-brush-grade-5kg-tub-fr-sealant-for-fireco-502-401-802",
+      "quantity": 10,
+      "unit": "tubs",
+      "asOfHoursAgo": 2
+    },
+    {
+      "stockPoolId": "pool-central",
+      "productId": "fireco-strap-60mm-x-4mm-x-10m-long-graphite-strip",
+      "quantity": 1,
+      "unit": "rolls",
+      "asOfHoursAgo": 2
+    },
+    {
+      "stockPoolId": "pool-central",
+      "productId": "fireco-servowrap-penetration-wrap-300mm-wide-x-10m-long-15mm-thick",
+      "quantity": 2,
+      "unit": "rolls",
+      "asOfHoursAgo": 2
+    },
+    {
+      "stockPoolId": "pool-central",
+      "productId": "fireco-firecowrap-1000mm-wide-x-6-5m-long-40mm-thick",
+      "quantity": 1,
+      "unit": "rolls",
+      "asOfHoursAgo": 2
+    },
+    {
+      "stockPoolId": "pool-central",
+      "productId": "foam-backer-rod-25mm-dia-pe-backer-rod",
+      "quantity": 30,
+      "unit": "lengths",
+      "asOfHoursAgo": 2
+    },
+    {
+      "stockPoolId": "pool-east",
+      "productId": "fireco-mastic-600ml-sausage-fire-rated-acrylic-sealant",
+      "quantity": 20,
+      "unit": "sausages",
+      "asOfHoursAgo": 2
+    },
+    {
+      "stockPoolId": "pool-east",
+      "productId": "foam-backer-rod-25mm-dia-pe-backer-rod",
+      "quantity": 30,
+      "unit": "lengths",
+      "asOfHoursAgo": 2
+    },
+    {
+      "stockPoolId": "pool-east",
+      "productId": "fireco-sl-collar-55mm-retrofit-collar",
+      "quantity": 12,
+      "unit": "each",
+      "asOfHoursAgo": 2
+    },
+    {
+      "stockPoolId": "pool-east",
+      "productId": "ryansil-fire-rated-elastomeric-sealant-grey-600ml-foil-pack-sausage",
+      "quantity": 12,
+      "unit": "sausages",
+      "asOfHoursAgo": 30
+    }
+  ],
+  "deliveries": [
+    {
+      "id": "D-1",
+      "stockPoolId": "pool-central",
+      "productId": "fireco-servowrap-penetration-wrap-300mm-wide-x-10m-long-15mm-thick",
+      "quantity": 6,
+      "expectedOffset": 4,
+      "confirmed": true
+    },
+    {
+      "id": "D-2",
+      "stockPoolId": "pool-central",
+      "productId": "fireco-firecowrap-1000mm-wide-x-6-5m-long-40mm-thick",
+      "quantity": 5,
+      "expectedOffset": 3,
+      "confirmed": false
+    }
+  ],
+  "reservations": [
+    {
+      "visitId": "V-106",
+      "stockPoolId": "pool-central",
+      "productId": "fireco-sl-collar-80mm-retrofit-collar",
+      "quantity": 15
+    }
+  ]
+}

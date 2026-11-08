@@ -1,0 +1,49 @@
+{
+  "name": "qantum-team-leader-readiness",
+  "version": "0.1.0",
+  "private": true,
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "serve": "serve out -l 4173 --no-clipboard",
+    "catalogue": "tsx scripts/build-catalogue.ts",
+    "catalogue:check": "tsx scripts/build-catalogue.ts --check",
+    "lint": "eslint .",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "test:coverage": "vitest run --coverage",
+    "test:e2e": "playwright test --project=desktop --project=phone",
+    "check": "npm run lint && npm run typecheck && npm test && npm run catalogue:check && npm run build && npm run test:e2e",
+    "test:smoke": "playwright test --project=smoke"
+  },
+  "dependencies": {
+    "next": "16.4.5",
+    "react": "19.3.1",
+    "react-dom": "19.3.1",
+    "zod": "4.6.7"
+  },
+  "devDependencies": {
+    "@axe-core/playwright": "4.14.0",
+    "@playwright/test": "1.65.0",
+    "@testing-library/jest-dom": "7.0.1",
+    "@testing-library/react": "16.3.3",
+    "@testing-library/user-event": "14.6.8",
+    "@types/node": "26.6.6",
+    "@types/react": "19.3.0",
+    "@types/react-dom": "19.3.0",
+    "@vitejs/plugin-react": "6.2.1",
+    "@vitest/coverage-v8": "5.1.0",
+    "csv-parse": "7.0.3",
+    "eslint": "10.14.0",
+    "fast-check": "4.10.2",
+    "jsdom": "29.1.1",
+    "serve": "14.2.7",
+    "tsx": "4.23.15",
+    "typescript": "6.0.3",
+    "typescript-eslint": "8.72.1",
+    "vitest": "5.1.0"
+  }
+}
