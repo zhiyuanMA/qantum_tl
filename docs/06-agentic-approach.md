@@ -48,4 +48,4 @@ Rows marked *Early proposal* come from the developer's own early proposal, revis
 - A test caught unknown demand hiding a known shortage: Short was downgraded to Needs data review.
 - Reviewing a page in a browser found awkward status wording and unreadable UTC timestamps in escalation messages, which tests had not caught.
 - Reviewing the first dashboard with sample data found a chart with no information: every material bar was the same length. Bars by visit count were replaced by share of demand short.
-- Two tests were wrong rather than the code, and both were checked by hand before being changed: a time zone calculation and a filter count.
+- Several tests were wrong rather than the code, and each was checked by hand before being changed: a time-zone calculation, a filter count, two date expectations under the fixed test clock, and selectors that became ambiguous once a visit appeared in both the Today panel and the calendar.
